@@ -838,6 +838,11 @@ p, li {
   font-size: 18px;
   line-height: 1.4; }
 
+p, li, h2, h3, h4 {
+  font-family: "Value Sans Medium", sans-serif;
+  font-weight: 500;
+  font-style: normal; }
+
 p, li, h1, h2, h3, h4, h5, h6, a {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility; }
@@ -845,7 +850,7 @@ p, li, h1, h2, h3, h4, h5, h6, a {
 .intro, .latest-posts li, .page-links li, h1 {
   font-size: 6em;
   font-family: "Castledown Dotted Regular", Verdana, sans-serif;
-  line-height: 1em;
+  line-height: 1;
   font-weight: normal; }
   @media only screen and (max-width: 767px) {
     .intro, .latest-posts li, .page-links li, h1 {
@@ -864,8 +869,8 @@ p.post-meta-data {
   border-top: 1px solid black; }
 
 .posts li {
-  font-family: "Burgess Bold", times, serif;
-  font-weight: bold; }
+  font-family: "Value Sans Medium", sans-serif;
+  font-weight: 500; }
 
 nav.posts {
   position: fixed; }
