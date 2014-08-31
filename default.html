@@ -1,0 +1,43 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{site.posts | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix offset-by-five">
+         
+
+        {% if pages.size > 0 %}
+          <ul class="page-links">
+            
+            {% for page in pages %}
+              <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endfor %}
+
+
+          </ul>
+        {% endif %}
+
+
+
+        {{ body }}
+
+        
+      
+
+    </article>
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

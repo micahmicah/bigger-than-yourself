@@ -1,0 +1,42 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{site.posts | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix offset-by-five">
+         
+         <script type="text/javascript">
+	console.log({{page.url | json}});
+
+</script>
+
+        
+    	{% for post in site.posts %}
+	    	
+
+	    	 {% assign firstName = post.author.firstname | slugify %}
+    	{% endfor %}
+
+
+       
+
+
+      
+
+    </article>
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

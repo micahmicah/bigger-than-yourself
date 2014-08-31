@@ -1,0 +1,20 @@
+body {
+  background: yellow;
+  border-left: 1em solid black; }
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black; }
+
+.active {
+  font-weight: bold; }
+
+.latest-posts a:link, .latest-posts a:visited {
+  color: black; }
+
+.posts li a:link, .posts li a:visited {
+  color: black; }
+
+.latest-posts a:hover, .page-links a:hover {
+  background: black;
+  color: white; }

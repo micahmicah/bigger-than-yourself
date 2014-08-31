@@ -1,0 +1,16 @@
+nav.posts {
+  position: fixed; }
+
+nav.posts ul {
+  padding-left: 0em; }
+
+.latest-posts, .page-links {
+  list-style: none;
+  padding: 0em; }
+
+.latest-posts a {
+  display: block; }
+
+.latest-posts a:hover {
+  background: black;
+  color: white; }

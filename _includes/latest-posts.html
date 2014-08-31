@@ -1,0 +1,11 @@
+ {% if site.posts.size > 0 %}
+            <ul class="latest-posts">
+
+            {% for post in site.posts limit:10 %}
+            <li>
+              <a href="{{post.url}}" {% if post.url == url %} class="active"{% endif %}>{{post.title}}</a>
+              <p class="post-meta-data">posted by <span class="author">{{post.author.firstname}}</span> on <span class="date">{{post.updated_at | date_to_string}}</span></p>
+            </li>
+          {% endfor %}
+            </ul>
+        {% endif %}

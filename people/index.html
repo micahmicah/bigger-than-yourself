@@ -1,0 +1,40 @@
+{% capture content %}
+      
+      
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix offset-by-five">
+        
+        {% assign folks = site.meta.authors | split:',' %}
+	<ul class="page-links">
+	        {% for author in folks  %}
+		        <li><a href="people/{{author | slugify}}">{{author}}</a></li>
+	        {% endfor %}
+	</ul>
+
+        
+
+
+        <script type="text/javascript">
+                console.log({{site.meta.authors | split:',' | strip | json}});
+       </script>
+
+        {{ body }}
+
+
+      
+
+    </article>
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

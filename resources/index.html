@@ -1,0 +1,56 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{site.posts | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix offset-by-five">
+         
+
+        
+
+
+
+        {{ body }}
+
+        {% if posts.size > 0 %}
+          <ul class="latest-posts">
+            
+            {% for post in posts %}
+              <li><a href="{{post.url}}">{{post.title}}</a>
+                 <p class="post-meta-data">posted by <span class="author">{{post.author.firstname}}</span> on <span class="date">{{post.updated_at | date_to_string}}</span></p>
+              </li>
+            {% endfor %}
+
+
+          </ul>
+
+
+        {% endif %}
+
+
+      
+
+    </article>
+
+   
+    
+
+ 
+
+    
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

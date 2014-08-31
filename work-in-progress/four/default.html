@@ -1,0 +1,65 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{site.posts | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix offset-by-five">
+         
+
+        
+
+
+
+        {{ body }}
+
+        {% if pages.size > 0 %}
+          <ul>
+            <li>Week</li>
+            {% for page in pages %}
+              <li><a href="{{page.url}}">{{page.title}}</a></li>
+            {% endfor %}
+
+
+          </ul>
+
+
+        {% endif %}
+
+
+      
+
+    </article>
+
+   
+    
+
+   
+       <footer>
+        <ul>
+          {% if previous %}
+          <li><a href="{{previous.url}}">{{previous.title}}</a></li>
+          {% endif %}
+          {% if next %}
+            <li><a href="{{next.url}}">{{next.title}}</a></li>
+          {% endif %}
+        </ul>
+       </footer>
+   
+
+    
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

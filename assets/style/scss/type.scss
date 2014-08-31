@@ -1,0 +1,47 @@
+
+
+p, li{
+	font-size:18px;
+	line-height:1.4;
+}
+
+p, li, h1, h2, h3, h4, h5, h6, a{
+	-webkit-font-smoothing:antialiased;
+	text-rendering:optimizeLegibility;
+}
+
+p strong{
+
+}
+
+
+.intro, .latest-posts li, .page-links li, h1{
+	font-size:6em;
+	// font-family:"Burgess Bold" Shift,times, serif;
+	font-family:"Castledown Dotted Regular", Verdana, sans-serif;
+	line-height:1em;
+	font-weight:normal;
+	@media only screen and (max-width:767px){
+		font-size:3em;
+	}
+}
+
+.latest-posts a{
+	padding-bottom:13px;
+}
+
+.latest-posts li{
+	margin-bottom:0.5em;
+}
+
+p.post-meta-data{
+	font-family:Nitti, monospace;
+	font-size:13px;
+	margin-top:0em;
+	border-top:1px solid rgb(0,0,0);
+}
+
+.posts li{
+	font-family:"Burgess Bold", times, serif;
+	font-weight:bold;
+}
