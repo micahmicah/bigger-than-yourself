@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Bigger Than Yourself</title>
+    <link>http://biggerthan.micahbarett.info</link>
+    <pubDate>Sun, 31 Aug 2014 01:15:32 -0000</pubDate>
+    
+    <item>
+      <title>Next Test</title>
+      <link>http://biggerthan.micahbarett.info/work-in-progress/two/next-test</link>
+      <pubDate>Sat, 30 Aug 2014 16:22:00 +0000</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/work-in-progress/two/next-test</guid>
+      <description>&lt;p&gt;I wonder if blog posts are required for previous and next.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self Portrait</title>
+      <link>http://biggerthan.micahbarett.info/work-in-progress/one/self-portrait</link>
+      <pubDate>Sat, 30 Aug 2014 16:01:00 +0000</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/work-in-progress/one/self-portrait</guid>
+      <description>&lt;p&gt;This is a test post about what the post template could look like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vinyl Cutting</title>
+      <link>http://biggerthan.micahbarett.info/resources/vinyl-cutting</link>
+      <pubDate>Sat, 30 Aug 2014 14:21:00 +0000</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/resources/vinyl-cutting</guid>
+      <description>&lt;p&gt;Concept Link and AS220 have vinyl cutting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNC Routing</title>
+      <link>http://biggerthan.micahbarett.info/resources/cnc-routing</link>
+      <pubDate>Sat, 30 Aug 2014 14:20:00 +0000</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/resources/cnc-routing</guid>
+      <description>&lt;p&gt;AS220 has a CNC router&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laser Cutting</title>
+      <link>http://biggerthan.micahbarett.info/resources/laser-cutting</link>
+      <pubDate>Sat, 30 Aug 2014 14:19:00 +0000</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/resources/laser-cutting</guid>
+      <description>&lt;p&gt;Laser Bud at Precision laser.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
