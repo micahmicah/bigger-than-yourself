@@ -1,5 +1,5 @@
 ---
-time: 1409496886
+time: 1409506820
 inventory:
   /bigger-than-yourself/index.html:
     md5: 2f3124818f8a25e6f82553851b6b95ad
@@ -103,6 +103,9 @@ inventory:
   /work-in-progress/twelve/index.html:
     md5: 52b80060016d98cae636a4ac9ec8d5ef
     time: 1409496880
+  /people/micah/index.html:
+    md5: 4c534a90cbae15d97872af56330b8b30
+    time: 1409506819
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
@@ -110,8 +113,8 @@ inventory:
     md5: 8dbc6902ccda12fdb91aa3b5b2463d01
     time: 1409496881
   /feed.xml:
-    md5: e332e834bc2139298c7495f5ea21374f
-    time: 1409496881
+    md5: 6de1315248f74b95fab6725d877e1ab3
+    time: 1409506819
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
