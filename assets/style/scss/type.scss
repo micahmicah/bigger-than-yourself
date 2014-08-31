@@ -3,14 +3,6 @@
 p, li{
 	font-size:18px;
 	line-height:1.4;
-	
-}
-
-p,li,h2, h3, h4{
-	font-family:"Value Sans Medium", sans-serif;
-	font-weight:500;
-	font-style:normal;
-
 }
 
 p, li, h1, h2, h3, h4, h5, h6, a{
@@ -27,8 +19,7 @@ p strong{
 	font-size:6em;
 	// font-family:"Burgess Bold" Shift,times, serif;
 	font-family:"Castledown Dotted Regular", Verdana, sans-serif;
-	// font-family:"A2 Beckett Extra Light", Impact, 'Arial-Narrow', Arial, Sans-serif;
-	line-height:1;
+	line-height:1em;
 	font-weight:normal;
 	@media only screen and (max-width:767px){
 		font-size:3em;
@@ -51,6 +42,6 @@ p.post-meta-data{
 }
 
 .posts li{
-	font-family:"Value Sans Medium", sans-serif;
-	font-weight:500;
+	font-family:"Burgess Bold", times, serif;
+	font-weight:bold;
 }
