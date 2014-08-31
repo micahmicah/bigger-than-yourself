@@ -1,5 +1,5 @@
 ---
-time: 1409477981
+time: 1409494810
 inventory:
   /bigger-than-yourself/index.html:
     md5: 5fce04b01a375ea7852db296dbc2760f
@@ -35,8 +35,8 @@ inventory:
     md5: d7274c434d9c07607ed8ca3f04db0291
     time: 1409477813
   /syllabus/assignment-1/index.html:
-    md5: ba80739a432b653a23f261316ebdfc52
-    time: 1409477813
+    md5: 1c53315412828130fd1c719af84c2c05
+    time: 1409494809
   /syllabus/assignment-2/index.html:
     md5: fe82d32886d146bbd3c194f20b24381a
     time: 1409477813
@@ -107,8 +107,8 @@ inventory:
     md5: 4290605886ecb127348a7b896e65dfa2
     time: 1409447732
   /feed.xml:
-    md5: caced6e549dd7fb0f6aa6550bc5bda13
-    time: 1409477981
+    md5: d7eff5e1129e9f9205fe630b0b3997fb
+    time: 1409494810
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
