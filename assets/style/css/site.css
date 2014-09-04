@@ -871,10 +871,14 @@ p.post-meta-data {
   font-weight: normal; }
 
 nav.posts {
-  position: fixed; }
+  position: fixed;
+  margin-top: 3.75em; }
 
 nav.posts ul {
   padding-left: 0em; }
+
+nav.posts ul li:first-child {
+  margin-bottom: 5em; }
 
 .latest-posts, .page-links {
   list-style: none;
