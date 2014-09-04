@@ -1,5 +1,5 @@
 ---
-time: 1409787028
+time: 1409788891
 inventory:
   /bigger-than-yourself/index.html:
     md5: edd1740617150daa867303d45dcd0326
@@ -8,8 +8,8 @@ inventory:
     md5: edd1740617150daa867303d45dcd0326
     time: 1409787020
   /syllabus/index.html:
-    md5: 6b5666d74831608dd6f068fad51f3f0a
-    time: 1409787020
+    md5: c001a66bdafbd3567b930be19ee24aae
+    time: 1409788884
   /people/index.html:
     md5: aaaa8cd89e0d6b2224f5cc006624668a
     time: 1409477813
@@ -20,38 +20,38 @@ inventory:
     md5: 37302e0b28d5440eff839ca0de2b65f0
     time: 1409787020
   /resources/e-roon-kang/index.html:
-    md5: e7730fd565a80c94828b8fac96961187
-    time: 1409787020
+    md5: f609af49f2a8489a47992b60123cc91d
+    time: 1409788884
   /resources/applying-vinyl/index.html:
-    md5: eeb9db0bb73e5f2d9b70cf0d26e073c6
-    time: 1409787020
+    md5: 71136a76c9b8283361a91dc04acb0dda
+    time: 1409788884
   /resources/vinyl-cutting/index.html:
-    md5: e68ee084723df19175338dac7c1cbbaa
-    time: 1409787020
+    md5: 0432c32b6c9acd07d3384c9d1eab9acd
+    time: 1409788884
   /resources/cnc-routing/index.html:
-    md5: 2a135db167fe74e5fcf7fd35f21fbf9c
-    time: 1409787020
+    md5: a5bd65c93d0da3a18b30b2cfc7690699
+    time: 1409788885
   /resources/laser-cutting/index.html:
-    md5: 7de70398a643f1a63b85cc3847ae0a0f
-    time: 1409787020
+    md5: ee54893f1a0a4d4ddcd038e4d927dcd6
+    time: 1409788885
   /resources/archive/index.html:
-    md5: 2de42d72d1df81547fb47d79b0e973b7
-    time: 1409787020
+    md5: 12b44675cc2d635db5df9172634211d3
+    time: 1409788885
   /resources/tags/index.html:
-    md5: 5d38384a531138b91d12a5e66497fb60
-    time: 1409787020
+    md5: b6acc786f80bec3d171f6b903a381339
+    time: 1409788885
   /syllabus/assignment-1/index.html:
-    md5: 2011b15952bc277907196694fb21803e
-    time: 1409787020
+    md5: 98799a652c2dc1cf0678e083c0caa580
+    time: 1409788885
   /syllabus/assignment-2/index.html:
-    md5: a7e6c4b390b04e26e67f80d4eaeac0f3
-    time: 1409787020
+    md5: 881b06cc9d12e319e73d9ed1b9e950fe
+    time: 1409788885
   /syllabus/assignment-3/index.html:
-    md5: e603d4a4c17b0e5a65650cf1f4de573d
-    time: 1409787021
+    md5: c803b5995ed138672908fea565a16b7f
+    time: 1409788885
   /syllabus/assignment-4/index.html:
-    md5: 1acba57aa373dd8ca25905440bc4dab0
-    time: 1409787021
+    md5: abe5fe206873d03d87f47cee1dfb859e
+    time: 1409788885
   /work-in-progress/one/index.html:
     md5: 67301741db74db3ae9093b1a46164e21
     time: 1409787021
@@ -116,31 +116,19 @@ inventory:
     md5: 9638ef3d228a9149a3e36700e8aa7a8c
     time: 1409787022
   /feed.xml:
-    md5: b3d1de14b74eacaf5018da1d6f81875b
-    time: 1409787022
+    md5: c56fd558224b0e46efa3ef04b6a5f0d0
+    time: 1409788886
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
-    time: 1409477816
-  /assets/style/css/module.css:
-    md5: aacd944c0717ef79b64e1a29fe288eae
     time: 1409477816
   /assets/style/css/reset.css:
     md5: a5222612d9d13474f20d25a08052fc65
     time: 1409477817
-  /assets/style/css/site.css:
-    md5: 77c168e091a0e1bb1fd10d2d06b8095a
-    time: 1409477817
   /assets/style/css/theme.css:
     md5: fb0fec46e47e29d10223cb71bcfd4291
     time: 1409477817
-  /assets/style/css/type.css:
-    md5: c0ef1adb24189a62f2af649f540c5211
-    time: 1409477817
   /assets/style/scss/grid.scss:
     md5: 72fb4e56e3cbd4a6015f554a35f7504b
-    time: 1409477817
-  /assets/style/scss/module.scss:
-    md5: 24f0a0f16bc1c941e9a3bf5a799167f0
     time: 1409477817
   /assets/style/scss/reset.scss:
     md5: 7532bccdaf9eec79237cdb6c5f90cf18
@@ -151,15 +139,27 @@ inventory:
   /assets/style/scss/theme.scss:
     md5: fb0a3d575fb8a8ebcc6ed003e474b092
     time: 1409477818
-  /assets/style/scss/type.scss:
-    md5: b1c37c1d9189448302988f23d91d75f3
-    time: 1409477818
   /static/bigger than yourself.mcw:
     md5: e1b5de602ae463e63f456d05e53f0107
     time: 1409477818
   /assets/MFA2010-2.jpeg:
     md5: ececd457aafe467678c69d13a828c15a
     time: 1409786700
+  /assets/style/css/module.css:
+    md5: 49764264ca14abe7abad17f33cc157b9
+    time: 1409788887
+  /assets/style/css/site.css:
+    md5: 112099c59666b8b07c6cd882e5a2f825
+    time: 1409788887
+  /assets/style/css/type.css:
+    md5: f1114f49330cd0b06e962f6ac0bfb053
+    time: 1409788887
+  /assets/style/scss/module.scss:
+    md5: d9e048276019452c8f34fc11abb277f7
+    time: 1409788887
+  /assets/style/scss/type.scss:
+    md5: 79dc3c9e7e362b05eb111355cc8653f3
+    time: 1409788887
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022

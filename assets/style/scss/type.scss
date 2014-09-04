@@ -15,7 +15,7 @@ p strong{
 }
 
 
-.intro, .latest-posts li, .page-links li, h1{
+.intro, .latest-posts li, .page-links li, h1, .entry-title{
 	font-size:6em;
 	// font-family:"Burgess Bold" Shift,times, serif;
 	font-family:"Castledown Dotted Regular", Verdana, sans-serif;
@@ -26,8 +26,12 @@ p strong{
 	}
 }
 
-.latest-posts a{
+.latest-posts a, .entry-title{
 	padding-bottom:13px;
+}
+
+.entry-title{
+	margin:0em;
 }
 
 .latest-posts li{

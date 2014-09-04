@@ -6,17 +6,20 @@ p, li, h1, h2, h3, h4, h5, h6, a {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility; }
 
-.intro, .latest-posts li, .page-links li, h1 {
+.intro, .latest-posts li, .page-links li, h1, .entry-title {
   font-size: 6em;
   font-family: "Castledown Dotted Regular", Verdana, sans-serif;
   line-height: 1em;
   font-weight: normal; }
   @media only screen and (max-width: 767px) {
-    .intro, .latest-posts li, .page-links li, h1 {
+    .intro, .latest-posts li, .page-links li, h1, .entry-title {
       font-size: 3em; } }
 
-.latest-posts a {
+.latest-posts a, .entry-title {
   padding-bottom: 13px; }
+
+.entry-title {
+  margin: 0em; }
 
 .latest-posts li {
   margin-bottom: 0.5em; }
