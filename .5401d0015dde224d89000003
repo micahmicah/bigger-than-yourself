@@ -1,12 +1,12 @@
 ---
-time: 1409835028
+time: 1409835133
 inventory:
   /bigger-than-yourself/index.html:
-    md5: deb5874b0b5e8c31c751107b2f13fbef
-    time: 1409789034
+    md5: 586411e07f32e2fb261b02afc1736391
+    time: 1409835130
   /index.html:
-    md5: deb5874b0b5e8c31c751107b2f13fbef
-    time: 1409789034
+    md5: 586411e07f32e2fb261b02afc1736391
+    time: 1409835130
   /syllabus/index.html:
     md5: 730c5900b679bf093d2d04981d72bdb1
     time: 1409789034
@@ -113,11 +113,11 @@ inventory:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 3059c7bea65da3d3e5748760905c3d8d
-    time: 1409789036
+    md5: 77204d1d221dc62f6a8dd59c68e35979
+    time: 1409835132
   /feed.xml:
-    md5: 9fb066700aaf8bcdf7a9582027d21c59
-    time: 1409789036
+    md5: 90f6188e9730bc399ca3695c0d4573a0
+    time: 1409835132
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
