@@ -867,8 +867,8 @@ p.post-meta-data {
   border-top: 1px solid black; }
 
 .posts li {
-  font-family: "Burgess Bold", times, serif;
-  font-weight: bold; }
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+  font-weight: normal; }
 
 nav.posts {
   position: fixed; }
@@ -893,6 +893,9 @@ article img {
 
 article iframe {
   max-width: 100%; }
+
+article {
+  margin-bottom: 20em; }
 
 body {
   background: yellow;
