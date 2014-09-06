@@ -1,37 +1,66 @@
 body{
 	// background:rgb(250,250,250);
-	background:yellow;
-	border-left:1em solid black;
+	// background:yellow;
+	// border-left:1em solid $blue;
 }
 
+p, li{
+	color:rgb(70,70,70);
+}
 
 a:link, a:visited{
 	text-decoration:none;
-	color:rgb(0,0,0);
+	color:$blue;
 }
 
 .active{
-	font-weight:bold;
+	background:$blue;
+	// color:rgb(250,250,250);
 }
 
 .latest-posts a:link, .latest-posts a:visited{
-	color:black;
+	color:$blue;
 }
 
 p.post-meta-data{
 	// color:rgb(200,200,200);
+	color:$red;
 }
 
 .author, .date{
 	// color:rgb(0,0,200);
 }
 
-.posts li a:link, .posts li a:visited{
-	color:black;
+.posts ul li a:link, .posts ul li a:visited{
+	color:$red;
+
 }
+
+.posts ul li a.active{
+	color:white;
+}
+
+
 
 .latest-posts a:hover, .page-links a:hover{
 	background:black;
 	color:white;
+
 }
 
+h2,h3{
+	color:$red;
+}
+
+h1{
+	color:$red;
+}
+
+.page-links a:hover, .latest-posts a:hover {
+	background:$blue;
+}
+
+
+p.intro{
+	color:$blue;
+}

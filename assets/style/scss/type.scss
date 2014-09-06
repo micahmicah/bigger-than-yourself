@@ -1,9 +1,13 @@
 
 
 p, li{
-	font-size:18px;
-	line-height:1.4;
+	font-size:22px;
+	line-height:1.4em;
+	
+	// font-weight:bold;
 }
+
+
 
 p, li, h1, h2, h3, h4, h5, h6, a{
 	-webkit-font-smoothing:antialiased;
@@ -11,18 +15,58 @@ p, li, h1, h2, h3, h4, h5, h6, a{
 }
 
 p strong{
-
+	color:$red;
 }
 
+p a:link, p a:visited{
+	border-bottom:1px solid $red;
+}
+
+p a:hover{
+	color:white;
+	background:$red;
+}
+
+a:hover{
+	-webkit-transition: all 0.2s ease-in-out;
+}
 
 .intro, .latest-posts li, .page-links li, h1, .entry-title{
-	font-size:6em;
+	font-size:7em;
 	// font-family:"Burgess Bold" Shift,times, serif;
 	font-family:"Castledown Dotted Regular", Verdana, sans-serif;
 	line-height:1em;
 	font-weight:normal;
 	@media only screen and (max-width:767px){
 		font-size:3em;
+		font-family:"Castledown Bold", Verdana, sans-serif;
+	}
+	@media only screen and (max-width:479px){
+		font-size:2em;
+		line-height:1.33em;
+	}
+}
+
+.intro{
+	-webkit-hyphens:auto;
+}
+
+h2, h3{
+	margin-top:3em;
+	text-transform:uppercase;
+	letter-spacing:1px;
+}
+
+p, li, h2, h3, h4{
+	font-family:"Castledown Bold", Verdana, sans-serif;
+}
+
+.posts li{
+	text-transform:uppercase;
+	font-size:16px;
+	letter-spacing:1px;
+	@media only screen and (max-width:959px){
+		font-size:14px;
 	}
 }
 
@@ -42,11 +86,22 @@ p.post-meta-data{
 	font-family:Nitti, monospace;
 	font-size:13px;
 	margin-top:0em;
-	border-top:1px solid rgb(0,0,0);
+	border-top:1px solid $red;
 }
 
-.posts li{
-	font-family:"helvetica neue", helvetica, arial, sans-serif;
-	// font-family:"Burgess Bold", times, serif;
-	font-weight:normal;
+footer p{
+	font-family:Nitti, monospace;
+	font-size:13px;
+	// text-align:center;
+	color:rgb(180,180,180);
+}
+
+footer p a:link, footer p a:visited{
+	color:rgb(180,180,180);
+	border-bottom:1px solid rgb(180,180,180);
+}
+
+footer p a:hover{
+	color:$red;
+	background:none;
 }

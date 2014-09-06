@@ -6,6 +6,19 @@
         <link rel="stylesheet" type="text/css" href="/assets/style/css/site.css">
         <link href="//cloud.webtype.com/css/298e0648-e1d9-4a0b-b602-38c63a494af9.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/biggerthan.siteleaf.dev/48594.css" type="text/css" />
+         <script type="text/javascript">
+WebFontConfig = { fontdeck: { id: '48791' } };
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
     </head>
     <body>
     	<div class="container">
@@ -16,8 +29,9 @@
 
               </script>
     
-     <nav class="posts four columns alpha clearfix">
-       <ul>
+     <nav class="posts clearfix">
+	<div class="mobile-activator"></div>
+       <ul class="fourteen columns offset-by-one nav-menu">
       
           <li>
             <a href="/">Bigger Than Yourself</a>
@@ -25,7 +39,7 @@
           </li>
       
           <li>
-            <a href="/resources">Resources</a>
+            <a href="/resources" class="active" >Resources</a>
            
           </li>
       
@@ -44,21 +58,28 @@
            
           </li>
       
-      </ul>  
+      </ul>
+
+      <script type="text/javascript">
+                console.log("/resources");
+                console.log("/resources/vinyl-cutting");
+              </script>  
     </nav>
 
-    <article class="ten columns omega clearfix offset-by-five">
+    <article class="twelve columns omega clearfix offset-by-one">
          
 
         
         <h2 class="entry-title">Vinyl Cutting</h2>
-         <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">06 Sep 2014</span></p>
+         
           <p>Vinyl cutters in the area.</p>
 
 <p><strong>Concept Link</strong>: Now in the 2nd floor of the Design Center, Concept Link offers large format printing as well as vinyl cutting.</p>
 
 <p><strong>AS220 Labs</strong>: In addition to laser cutting, AS220 Labs also has a vinyl cutter which is available for use after attending a <a href="http://shop.as220.org/collections/workshops-as220-labs/products/introduction-to-the-vinyl-cutter">one day course</a>. You may also hire the Labs staff to produce cut vinyl for you.</p>
 
+
+          <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">06 Sep 2014</span></p>
 
         
 
@@ -174,6 +195,17 @@
 
 
 
+
         </div>
+        <div class="container">
+            <footer class="twelve columns offset-by-one">
+                <p>Powered by <a href="http://siteleaf.com" target="new">Siteleaf</a></p>
+
+            </footer>
+
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+
     </body>
 </html>

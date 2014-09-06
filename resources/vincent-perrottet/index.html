@@ -6,6 +6,19 @@
         <link rel="stylesheet" type="text/css" href="/assets/style/css/site.css">
         <link href="//cloud.webtype.com/css/298e0648-e1d9-4a0b-b602-38c63a494af9.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/biggerthan.siteleaf.dev/48594.css" type="text/css" />
+         <script type="text/javascript">
+WebFontConfig = { fontdeck: { id: '48791' } };
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
     </head>
     <body>
     	<div class="container">
@@ -16,8 +29,9 @@
 
               </script>
     
-     <nav class="posts four columns alpha clearfix">
-       <ul>
+     <nav class="posts clearfix">
+	<div class="mobile-activator"></div>
+       <ul class="fourteen columns offset-by-one nav-menu">
       
           <li>
             <a href="/">Bigger Than Yourself</a>
@@ -25,7 +39,7 @@
           </li>
       
           <li>
-            <a href="/resources">Resources</a>
+            <a href="/resources" class="active" >Resources</a>
            
           </li>
       
@@ -44,19 +58,26 @@
            
           </li>
       
-      </ul>  
+      </ul>
+
+      <script type="text/javascript">
+                console.log("/resources");
+                console.log("/resources/vincent-perrottet");
+              </script>  
     </nav>
 
-    <article class="ten columns omega clearfix offset-by-five">
+    <article class="twelve columns omega clearfix offset-by-one">
          
 
         
         <h2 class="entry-title">Vincent Perrottet</h2>
-         <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">04 Sep 2014</span></p>
+         
           <p><img src="/assets/1-EXPO-1-P1000583.jpg" alt="1-EXPO-1-P1000583"> <img src="/assets/02_P1070519.jpg" alt="02_P1070519"> <img src="/assets/2-EXPO-2-P1000608.jpg" alt="2-EXPO-2-P1000608"> <img src="/assets/03_EXPO_A%20V_BU.jpg" alt="03_EXPO_A V_BU"> <img src="/assets/03_P1070523.jpg" alt="03_P1070523"> <img src="/assets/3-EXPO-3-P1000626.jpg" alt="3-EXPO-3-P1000626"> <img src="/assets/4-EXPO-4-P1000633.jpg" alt="4-EXPO-4-P1000633"> <img src="/assets/12-P1060618_OK.jpg" alt="12-P1060618_OK"> <img src="/assets/13-P1060603_OK.jpg" alt="13-P1060603_OK"> <img src="/assets/40-P1060993_OK.jpg" alt="40-P1060993_OK"></p>
 
 <p>via <a href="http://vincentperrottet.com/">Vincent Perrottet</a></p>
 
+
+          <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">04 Sep 2014</span></p>
 
         
 
@@ -172,6 +193,17 @@
 
 
 
+
         </div>
+        <div class="container">
+            <footer class="twelve columns offset-by-one">
+                <p>Powered by <a href="http://siteleaf.com" target="new">Siteleaf</a></p>
+
+            </footer>
+
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+
     </body>
 </html>

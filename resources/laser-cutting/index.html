@@ -6,6 +6,19 @@
         <link rel="stylesheet" type="text/css" href="/assets/style/css/site.css">
         <link href="//cloud.webtype.com/css/298e0648-e1d9-4a0b-b602-38c63a494af9.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/biggerthan.siteleaf.dev/48594.css" type="text/css" />
+         <script type="text/javascript">
+WebFontConfig = { fontdeck: { id: '48791' } };
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
     </head>
     <body>
     	<div class="container">
@@ -16,8 +29,9 @@
 
               </script>
     
-     <nav class="posts four columns alpha clearfix">
-       <ul>
+     <nav class="posts clearfix">
+	<div class="mobile-activator"></div>
+       <ul class="fourteen columns offset-by-one nav-menu">
       
           <li>
             <a href="/">Bigger Than Yourself</a>
@@ -25,7 +39,7 @@
           </li>
       
           <li>
-            <a href="/resources">Resources</a>
+            <a href="/resources" class="active" >Resources</a>
            
           </li>
       
@@ -44,15 +58,20 @@
            
           </li>
       
-      </ul>  
+      </ul>
+
+      <script type="text/javascript">
+                console.log("/resources");
+                console.log("/resources/laser-cutting");
+              </script>  
     </nav>
 
-    <article class="ten columns omega clearfix offset-by-five">
+    <article class="twelve columns omega clearfix offset-by-one">
          
 
         
         <h2 class="entry-title">Laser Cutting</h2>
-         <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">06 Sep 2014</span></p>
+         
           <p>There are a few laser cutting options in the area. Here&rsquo;s a rundown of each.</p>
 
 <p><strong>BEB</strong>: The RISD Architecture department has a laser cutter in the bottom floor of the BEB. Architecture students take priority so it might be difficult to get time on the machine without an ambassador in the department. Payment is based on time on the machine so more intricate designs will take much longer.</p>
@@ -67,6 +86,8 @@
 
 <p>Please ask any store you purchase acrylic from if it&rsquo;s safe to be used on a laser cutter and be sure to verify with the cutter that they&rsquo;re comfortable cutting your material. Wood has a tendency to burn on the edges and some pieces of plexi won&rsquo;t be able to be cut as they will emit toxic fumes.</p>
 
+
+          <p class="post-meta-data">posted by <span class="author"><a href="/people/Micah">Micah</a></span> on <span class="date">06 Sep 2014</span></p>
 
         
 
@@ -182,6 +203,17 @@
 
 
 
+
         </div>
+        <div class="container">
+            <footer class="twelve columns offset-by-one">
+                <p>Powered by <a href="http://siteleaf.com" target="new">Siteleaf</a></p>
+
+            </footer>
+
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+
     </body>
 </html>

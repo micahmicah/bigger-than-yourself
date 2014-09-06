@@ -6,6 +6,19 @@
         <link rel="stylesheet" type="text/css" href="/assets/style/css/site.css">
         <link href="//cloud.webtype.com/css/298e0648-e1d9-4a0b-b602-38c63a494af9.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="//f.fontdeck.com/s/css/zH28mslJNSfrEtk/N8vkA5GMvEQ/biggerthan.siteleaf.dev/48594.css" type="text/css" />
+         <script type="text/javascript">
+WebFontConfig = { fontdeck: { id: '48791' } };
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
     </head>
     <body>
     	<div class="container">
@@ -16,8 +29,9 @@
 
               </script>
     
-     <nav class="posts four columns alpha clearfix">
-       <ul>
+     <nav class="posts clearfix">
+	<div class="mobile-activator"></div>
+       <ul class="fourteen columns offset-by-one nav-menu">
       
           <li>
             <a href="/">Bigger Than Yourself</a>
@@ -44,7 +58,12 @@
            
           </li>
       
-      </ul>  
+      </ul>
+
+      <script type="text/javascript">
+                console.log("/work-in-progress/one");
+                console.log("/work-in-progress/one/tag-set-name");
+              </script>  
     </nav>
 
     <article class="ten columns omega clearfix offset-by-five">
@@ -86,6 +105,17 @@
 
 
 
+
         </div>
+        <div class="container">
+            <footer class="twelve columns offset-by-one">
+                <p>Powered by <a href="http://siteleaf.com" target="new">Siteleaf</a></p>
+
+            </footer>
+
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/assets/js/main.js"></script>
+
     </body>
 </html>
