@@ -1,147 +1,147 @@
 ---
-time: 1410027984
+time: 1410029639
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 59f30a6f48270fc0c91bd7523237e45c
-    time: 1410027975
+    md5: e34418dcd200dcaa7f0933e2399effa3
+    time: 1410029629
   /index.html:
-    md5: 59f30a6f48270fc0c91bd7523237e45c
-    time: 1410027975
-  /syllabus/index.html:
-    md5: 220710e9f37986829056890c30250fb9
-    time: 1410027975
-  /people/index.html:
-    md5: aaaa8cd89e0d6b2224f5cc006624668a
-    time: 1409477813
-  /work-in-progress/index.html:
-    md5: 9abae98b113bd7e09f5a5fd9de6a0caf
-    time: 1410027975
+    md5: e34418dcd200dcaa7f0933e2399effa3
+    time: 1410029629
   /resources/index.html:
-    md5: 5fbc4a1df4706e8394f26d99a64ae028
-    time: 1410027975
+    md5: 68c83ed9006bd2330dc2246efb867ce8
+    time: 1410029629
   /resources/bruce-mau-design/index.html:
-    md5: d1ef7d2d32e046021ba12f96f2cfed88
-    time: 1410027975
+    md5: 7fb92d81375790711a6d986530659267
+    time: 1410029629
   /resources/wade-guyton/index.html:
-    md5: 0e44af2919762fb67ef4c2e1cad582e3
-    time: 1410027975
+    md5: a5401006bc9856b3f112190846d1c93b
+    time: 1410029629
   /resources/vincent-perrottet/index.html:
-    md5: f16b753c689420da6e44ac7d63ec14c8
-    time: 1410027975
+    md5: c448f8dbfd614954ea2060042e3a54d8
+    time: 1410029629
   /resources/e-roon-kang/index.html:
-    md5: 13a6455caaa11159c3a3bb345e1df211
-    time: 1410027975
+    md5: 60b305a48f6048821a019869a29948f2
+    time: 1410029629
   /resources/applying-vinyl/index.html:
-    md5: 5eaba0c743989bc9197dcb0e390b79ab
-    time: 1410027975
+    md5: 466f88b05c350b48b08fd8764b927338
+    time: 1410029629
   /resources/vinyl-cutting/index.html:
-    md5: e28838ac82d5922f8be852bba744557a
-    time: 1410027975
+    md5: db2a91f3f2a9bf1250813610e466b31c
+    time: 1410029629
   /resources/cnc-routing/index.html:
-    md5: 4865b84784717ee41730c99c4ae97f34
-    time: 1410027976
+    md5: ad096e80709ec769adb5722054095d92
+    time: 1410029629
   /resources/laser-cutting/index.html:
-    md5: 1b52659de5139c6840ae1b663f5fd1a8
-    time: 1410027976
+    md5: c103e502fdae34de9249af1cee4f1246
+    time: 1410029630
   /resources/archive/index.html:
-    md5: 206fe9939842682c3e108d44d264d078
-    time: 1410027976
+    md5: e919d0678ca6e55e5643fa921eae7b6b
+    time: 1410029630
   /resources/tags/index.html:
-    md5: 77500abbb68b43c71000571a91b21c15
-    time: 1410027976
+    md5: b6833ac7832663b88e48b7b499bd00fc
+    time: 1410029630
   /resources/tags/wayfinding-signage/index.html:
-    md5: d4f94629aaccff2b996a6497c82112d1
-    time: 1410027976
+    md5: 90c4b18af235fa7c8d096b45425b866b
+    time: 1410029630
   /resources/tags/art-installation/index.html:
-    md5: debdb7af43e4de7e07f900ea8846229a
-    time: 1409835550
+    md5: 081a1d87c3b4aeb4ef85714c3c18ed91
+    time: 1410029630
   /resources/tags/poster-design/index.html:
-    md5: f34bc9946cf9466885f96613b9bb43d8
-    time: 1409835267
+    md5: 3d629f21f6d76834fe542976009772d8
+    time: 1410029630
+  /syllabus/index.html:
+    md5: e2a5629f5b6de54bb2f65bc9e44c6820
+    time: 1410029630
+  /people/index.html:
+    md5: e05572a49d5a5beb87a481857a8a44a3
+    time: 1410029630
+  /work-in-progress/index.html:
+    md5: aabdacaa2d92da8a73e1dc0c6d273e7f
+    time: 1410029630
   /syllabus/assignment-1/index.html:
-    md5: 1e6a5d1ad5e58ce7f8c7e88b6b1c01df
-    time: 1410027976
+    md5: 6d3e4af48195966e942070f6913ce3a3
+    time: 1410029630
   /syllabus/assignment-2/index.html:
-    md5: 4603e8269cbff29000fd457e7d923493
-    time: 1410027976
+    md5: 9571949473742f252a974f597dc8f2fc
+    time: 1410029630
   /syllabus/assignment-3/index.html:
-    md5: 4f8d0acb0b76ba7eb9b212439c31528f
-    time: 1410027976
+    md5: caa8c5e6be6c37db01fc31f51724f4d7
+    time: 1410029630
   /syllabus/assignment-4/index.html:
-    md5: 5b2d6821fbce5086e1c124b322fcfec0
-    time: 1410027976
+    md5: e8fb943404aecc28c0d22a496fc6e3bc
+    time: 1410029630
   /work-in-progress/one/index.html:
-    md5: f30f544476299069f8025788dccf80c1
-    time: 1410027976
+    md5: cd76f037e925276e969444f2bda902f2
+    time: 1410029630
   /work-in-progress/one/self-portrait/index.html:
-    md5: 2ceff3335962198a63b5a29ade025950
-    time: 1410027976
+    md5: fbe7c7ec038079b5d71b16b226e67571
+    time: 1410029630
   /work-in-progress/one/archive/index.html:
-    md5: a989501884f721191463e0f0cf1a7069
-    time: 1410027976
+    md5: 9c4e599d59986c5ab8bc88f3c8ed7122
+    time: 1410029631
   /work-in-progress/one/tag-set-name/index.html:
-    md5: e0a19c4085685491ebf29df8d9e51fc5
-    time: 1410027976
+    md5: 9a08208f69d5239e9367f0f7f77e9a7e
+    time: 1410029631
   /work-in-progress/two/index.html:
-    md5: f6e468b3ffe02725afa73a4a1aefdcbc
-    time: 1410027976
+    md5: 51b54df1a02a5c1b3b93fe0bd1731598
+    time: 1410029631
   /work-in-progress/two/next-test/index.html:
-    md5: b6c441abf7ad567461dda9bc652c9cd3
-    time: 1410027976
+    md5: 24513104a0523234983fd6a463e671a1
+    time: 1410029631
   /work-in-progress/two/archive/index.html:
-    md5: 10f3fe828f8c2a52d1d1846238db7289
-    time: 1410027977
+    md5: 8bc62711997b43f1ec9b895f019ea7fc
+    time: 1410029631
   /work-in-progress/two/tags/index.html:
-    md5: 82511bbc2c6b6b6f69e74f9e6f468fe1
-    time: 1410027977
+    md5: 0f555b48b38ffb88c7daa65f96683aeb
+    time: 1410029631
   /work-in-progress/three/index.html:
-    md5: 5b58e90f8c8ce747c935f6c73766c166
-    time: 1410027977
+    md5: 87d4fcbe259d600b074c083390078bdc
+    time: 1410029631
   /work-in-progress/four/index.html:
-    md5: 9235ffcaa9b7087f31b63b0d71deab3b
-    time: 1410027977
+    md5: 84dcc7a0c9e63577ba1e71c541f7ec53
+    time: 1410029631
   /work-in-progress/five/index.html:
-    md5: 6e29d1817f5f236b31ace1f2f2c4e6a9
-    time: 1410027977
+    md5: faa3a0a8945fea971459b7b41eafb33a
+    time: 1410029631
   /work-in-progress/six/index.html:
-    md5: 860d9de44cb97ade2c1af4d85e51b2f6
-    time: 1410027977
+    md5: c2f29d7ff45ec5afa2494713b1927ce7
+    time: 1410029631
   /work-in-progress/seven/index.html:
-    md5: 77508306a5f364029516f8bf0769217b
-    time: 1410027977
+    md5: f15a4aaf103c53532f9d87d2a852b43a
+    time: 1410029631
   /work-in-progress/eight/index.html:
-    md5: edc8f669eaf4e41eb0554a7bc26330a7
-    time: 1410027977
+    md5: 4c331358699a1a7a9d79e69802803605
+    time: 1410029631
   /work-in-progress/nine/index.html:
-    md5: e6274596fd1545f5a26b35b586a638cf
-    time: 1410027977
+    md5: 913bfa6afcf2972284f264e9ca25053a
+    time: 1410029631
   /work-in-progress/ten/index.html:
-    md5: dee73354478b7650dc22f72890042a97
-    time: 1410027977
+    md5: 8b76998796b9cc65703f4f76b528a718
+    time: 1410029631
   /work-in-progress/eleven/index.html:
-    md5: 8a6774626dcef74ae077610351997586
-    time: 1410027977
+    md5: 89d7b276dea244befda3cc8e97107262
+    time: 1410029631
   /work-in-progress/twelve/index.html:
-    md5: 07b61f8e2854aa48c6f137b9bd517c2f
-    time: 1410027977
+    md5: 564fbde68a579ecc387cfc174927ca80
+    time: 1410029631
   /resources/art-installations/index.html:
-    md5: 6c53476d2dc90e256c342f76f79171e1
-    time: 1410027977
+    md5: a94af2f4de5ccd037a614b45a798c653
+    time: 1410029631
   /resources/wayfinding-signage/index.html:
-    md5: aa2508636c200f17ad16bc1d34de72d8
-    time: 1410027977
+    md5: 83ed81355c1f7008649330a9aaf44251
+    time: 1410029632
   /people/micah/index.html:
-    md5: fc8e9f7cee2634362c14eca40508f025
-    time: 1410027977
+    md5: 07e24b31d74a768b6276e3526eb089c0
+    time: 1410029632
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: e75efb37bbd00a60c6f3ef7459c45bed
-    time: 1410027977
+    md5: 7cdf6059e62ec176432290f84caf8a4e
+    time: 1410029632
   /feed.xml:
-    md5: ff3d00cef5932420ea16508fc7dcb4f3
-    time: 1410027978
+    md5: 337812e5973f4367644386925bb956dd
+    time: 1410029632
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
