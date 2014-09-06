@@ -1,10 +1,16 @@
-<nav class="posts four columns alpha clearfix">
-       <ul>
+<nav class="posts clearfix">
+	<div class="mobile-activator"></div>
+       <ul class="fourteen columns offset-by-one nav-menu">
       {% for page in site.pages %}
           <li>
-            <a href="{{page.url}}"{% if page.url == url %} class="active"{% endif %}>{{page.title}}</a>
+            <a href="{{page.url}}"{% if page.url == url or parent.url == page.url %} class="active" {% endif %}>{{page.title}}</a>
            
           </li>
       {% endfor %}
-      </ul>  
+      </ul>
+
+      <script type="text/javascript">
+                console.log({{parent.url | json}});
+                console.log({{url | json}});
+              </script>  
     </nav>

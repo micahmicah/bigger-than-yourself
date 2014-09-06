@@ -1,0 +1,58 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{parent.posts | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="twelve columns omega clearfix offset-by-one">
+         
+
+        
+        <h2 class="entry-title">{{title}}</h2>
+         
+          {{ body }}
+
+          <p class="post-meta-data">posted by <span class="author"><a href="{{site.siteurl}}/people/{{author.firstname}}">{{author.firstname}}</a></span> on <span class="date">{{updated_at | date_to_string}}</span></p>
+
+        
+
+      
+        
+      
+          {% for post in parent.posts %}
+            
+          <ul class="latest-posts">
+          
+              <li><a href="{{post.url}}">{{ post.title }}</a>
+                 <p class="post-meta-data">posted by <span class="author">{{post.author.firstname}}</span> on <span class="date">{{post.updated_at | date_to_string}}</span></p>
+              </li>
+            
+
+
+          </ul>
+          {% endfor %}
+          
+
+    </article>
+
+   
+    
+
+ 
+
+    
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

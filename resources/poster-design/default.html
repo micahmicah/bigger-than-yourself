@@ -1,0 +1,66 @@
+{% capture content %}
+      
+      <script type="text/javascript">
+                console.log({{parent.posts[0].taxonomy['tags'].first | json}});
+
+              </script>
+    
+     {% include 'includes/global-nav' %}
+
+    <article class="ten columns omega clearfix">
+         
+
+        
+        <h2 class="entry-title">{{title}}</h2>
+         
+          {{ body }}
+
+        
+
+      
+        
+      <ul class="latest-posts">
+          {% for post in parent.posts %}
+              {% for  tag in post.taxonomy['tags']  %}
+                {% if tag == 'poster design' %}
+                  
+                
+              
+              <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+          
+          
+              {% comment %}<li><a href="{{post.url}}">{{ post.title }}</a>
+                 <p class="post-meta-data">posted by <span class="author">{{post.author.firstname}}</span> on <span class="date">{{post.updated_at | date_to_string}}</span></p>
+              </li>{% endcomment %}
+                {% endif %}
+
+              {% endfor %}
+          
+          {% endfor %}
+          </ul>
+          
+
+               
+
+    </article>
+
+   
+    
+
+ 
+
+    
+
+
+   
+    
+  
+
+
+
+
+{% endcapture %}
+
+{% include 'layouts/default' %}

@@ -7,17 +7,16 @@
     
      {% include 'includes/global-nav' %}
 
-    <article class="ten columns omega clearfix offset-by-five">
+    <article class="twelve columns omega clearfix offset-by-one">
          
-
-        
-
-
-
         {{ body }}
 
+    </article>
+
+    <div class="latest-posts-container">
+
         {% if posts.size > 0 %}
-          <ul class="latest-posts">
+          <ul class="latest-posts twelve columns offset-by-one">
             
             {% for post in posts %}
               <li><a href="{{post.url}}">{{post.title}}</a>
@@ -31,24 +30,7 @@
 
         {% endif %}
 
-
-      
-
-    </article>
-
-   
-    
-
- 
-
-    
-
-
-   
-    
-  
-
-
+    </div>
 
 
 {% endcapture %}

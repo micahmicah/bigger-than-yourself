@@ -7,7 +7,7 @@
     
      {% include 'includes/global-nav' %}
 
-    <article class="eleven columns omega clearfix offset-by-five">
+    <article class="twelve columns omega offset-by-one clearfix">
          
 
         {% include 'includes/latest-posts' %}
@@ -17,6 +17,17 @@
         {{ body }}
 
 
+        <ul>
+{% for set in taxonomy %}
+  <li>{{set.key}} ({{set | size}} tags)
+    <ul>
+    {% for tag in set %}
+      <li><a href="{{tag.url}}">{{tag.value}}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
       
 
     </article>

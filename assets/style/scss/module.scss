@@ -1,11 +1,97 @@
 
 
 nav.posts{
+	// position:fixed;
+	// margin-top:3.75em;
+	background:white;
 	position:fixed;
+	top:0em;
+	@media only screen and (max-width:479px){
+		height:100%;
+		background:none;
+		width:100%!important;
+		// position:relative;
+		// left:-100%;
+	}
 }
 
-nav.posts ul{
+.mobile-activator{
+	display:none;
+
+	@media only screen and (max-width:479px){
+	display:block;		
+	width:2em;
+	height:1em;
+	position:fixed;
+	border-top:0.125em solid $red;
+	border-bottom:0.125em solid $red;
+	// background:$blue;
+	z-index:10;
+	right:1em;
+	top:0.5em;
+	cursor:pointer;
+	}
+
+}
+
+.mobile-activator:after{
+		width:2em;
+		height:0.125em;
+		background:$red;
+		display:block;
+		content:"";
+		margin-top:0.45em;
+	}
+
+.nav-menu{
 	padding-left:0em;
+	@media only screen and (max-width:479px){
+		height:100%;
+		// width:100% !important;
+		background:white;
+		left:-100%;
+		position:fixed;
+
+		
+	}
+	
+	
+}
+
+.activated{
+			left:0%;
+			-webkit-transition:all 0.2s ease-in;
+		}
+
+
+
+nav.posts ul li{
+	float:left;
+	@media only screen and (max-width:479px){
+		float:none;
+	}
+	
+	
+
+
+}
+
+nav.posts ul li a:link{
+	display:block;
+	padding:0.25em 1em;
+	@media only screen and (max-width:959px){
+		padding:0.25em 0.5em;
+	}
+}
+
+nav.posts ul li a:hover{
+	// background:gray;
+	color:$blue;
+	// border:1px solid $red;
+}
+
+nav.posts ul li:first-child{
+	// margin-bottom:5em;
 }
 
 .latest-posts, .page-links{
@@ -20,4 +106,31 @@ nav.posts ul{
 .latest-posts a:hover{
 	background:black;
 	color:white;
+}
+
+article img{
+	max-width:100%;
+	min-width:100%;
+	margin:0.5em 0em;
+
+}
+
+article iframe{
+	max-width:100%;
+	min-width:100%;
+	margin:1em 0em;
+}
+
+article{
+	// margin-bottom:20em;
+	margin-top:4em;
+}
+
+footer{
+	margin-top:20em;
+}
+
+.human{
+	max-height:1em;
+	display:inline-block;;
 }

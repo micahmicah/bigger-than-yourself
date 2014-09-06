@@ -1,32 +1,69 @@
-p, li {
-  font-size: 18px;
-  line-height: 1.4; }
+/*
+Syntax error: Undefined variable: "$red".
+        on line 18 of scss/type.scss
 
-p, li, h1, h2, h3, h4, h5, h6, a {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility; }
+13: 	-webkit-font-smoothing:antialiased;
+14: 	text-rendering:optimizeLegibility;
+15: }
+16: 
+17: p strong{
+18: 	color:$red;
+19: }
+20: 
+21: p a:link, p a:visited{
+22: 	border-bottom:1px solid $red;
+23: }
 
-.intro, .latest-posts li, .page-links li, h1 {
-  font-size: 6em;
-  font-family: "Castledown Dotted Regular", Verdana, sans-serif;
-  line-height: 1em;
-  font-weight: normal; }
-  @media only screen and (max-width: 767px) {
-    .intro, .latest-posts li, .page-links li, h1 {
-      font-size: 3em; } }
-
-.latest-posts a {
-  padding-bottom: 13px; }
-
-.latest-posts li {
-  margin-bottom: 0.5em; }
-
-p.post-meta-data {
-  font-family: Nitti, monospace;
-  font-size: 13px;
-  margin-top: 0em;
-  border-top: 1px solid black; }
-
-.posts li {
-  font-family: "Burgess Bold", times, serif;
-  font-weight: bold; }
+Backtrace:
+scss/type.scss:18
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/script/tree/variable.rb:49:in `_perform'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/script/tree/node.rb:50:in `perform'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:366:in `visit_prop'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:79:in `block in with_base'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:121:in `with_frame'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:79:in `with_base'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:152:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:389:in `block (2 levels) in visit_rule'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:389:in `map'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:389:in `block in visit_rule'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:387:in `visit_rule'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:79:in `block in with_base'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:121:in `with_frame'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/stack.rb:79:in `with_base'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:152:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:161:in `block in visit_children'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:160:in `visit_children'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:180:in `visit_root'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:151:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/visitors/perform.rb:8:in `visit'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/tree/root_node.rb:20:in `render'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/engine.rb:274:in `render'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:378:in `update_stylesheet'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:189:in `block in update_stylesheets'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:186:in `each'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:186:in `update_stylesheets'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:357:in `on_file_changed'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/sass-3.3.9/lib/sass/plugin/compiler.rb:250:in `block in watch'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:272:in `call'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:272:in `_process_changes'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:231:in `block in _wait_for_changes'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:214:in `loop'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:214:in `_wait_for_changes'
+/Users/mbarrett/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/listen-2.7.6/lib/listen/listener.rb:301:in `block in _start_wait_thread'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Undefined variable: \"$red\".\A         on line 18 of scss/type.scss\A \A 13: 	-webkit-font-smoothing:antialiased;\A 14: 	text-rendering:optimizeLegibility;\A 15: }\A 16: \A 17: p strong{\A 18: 	color:$red;\A 19: }\A 20: \A 21: p a:link, p a:visited{\A 22: 	border-bottom:1px solid $red;\A 23: }"; }

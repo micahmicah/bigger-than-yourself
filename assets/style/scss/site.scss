@@ -1,4 +1,14 @@
+html body{
+	opacity:0.0;
+}
+
+.wf-active body{
+	opacity:1.0;
+	-webkit-transition:opacity 0.12s ease-in;
+}
+
 @import "reset";
+@import "mixins";
 @import "grid";
 @import "type";
 @import "module";
