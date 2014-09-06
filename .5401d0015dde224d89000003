@@ -1,5 +1,5 @@
 ---
-time: 1409836444
+time: 1410026238
 inventory:
   /bigger-than-yourself/index.html:
     md5: cb94f50bf4371cc11cc0574dafec20cc
@@ -8,8 +8,8 @@ inventory:
     md5: cb94f50bf4371cc11cc0574dafec20cc
     time: 1409835694
   /syllabus/index.html:
-    md5: a9e822d6b0b3475fda18e06bf81d9ed7
-    time: 1409835694
+    md5: cfaa1e195a29cdc80e65019a4d626da0
+    time: 1410026235
   /people/index.html:
     md5: aaaa8cd89e0d6b2224f5cc006624668a
     time: 1409477813
@@ -134,11 +134,11 @@ inventory:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 1afbf406b015cf73da8191c30bf65599
-    time: 1409835697
+    md5: 78f71fe95febd8dcffd7835702511c12
+    time: 1410026238
   /feed.xml:
-    md5: 81eeb955e0c2bad703100f8965295680
-    time: 1409836444
+    md5: 49e67758e5d16b06698f85970da2599f
+    time: 1410026238
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
