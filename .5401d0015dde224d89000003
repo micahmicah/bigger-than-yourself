@@ -1,5 +1,5 @@
 ---
-time: 1410026238
+time: 1410027923
 inventory:
   /bigger-than-yourself/index.html:
     md5: cb94f50bf4371cc11cc0574dafec20cc
@@ -127,6 +127,9 @@ inventory:
   /resources/art-installations/index.html:
     md5: c61f7edc6af0f709adf8e44819a06a79
     time: 1409836444
+  /resources/wayfinding-signage/index.html:
+    md5: dd1e817abb1744d5906a7ce943ab53df
+    time: 1410027922
   /people/micah/index.html:
     md5: 2a24f6b881624a4908b2741e0bd9f289
     time: 1409835697
@@ -137,8 +140,8 @@ inventory:
     md5: 78f71fe95febd8dcffd7835702511c12
     time: 1410026238
   /feed.xml:
-    md5: 49e67758e5d16b06698f85970da2599f
-    time: 1410026238
+    md5: 6a74e2553fa206c3d537bbe9bee1752c
+    time: 1410027923
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
