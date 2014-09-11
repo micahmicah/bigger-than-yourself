@@ -1,15 +1,15 @@
 ---
-time: 1410478093
+time: 1410478238
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 61c72835fb6fa6f4c2ffa708b3773622
-    time: 1410478084
+    md5: 40cbdddf859bdfd12bb7fcbe4a50db70
+    time: 1410478236
   /index.html:
-    md5: 61c72835fb6fa6f4c2ffa708b3773622
-    time: 1410478084
+    md5: 40cbdddf859bdfd12bb7fcbe4a50db70
+    time: 1410478236
   /resources/index.html:
-    md5: 3970121001aa073065d50d681f7d357c
-    time: 1410478084
+    md5: 09145919e52ebee7e7811edcb816ab96
+    time: 1410478236
   /resources/vinyl-cutting/index.html:
     md5: a89e7797da8a23bc1549e9e73a84930e
     time: 1410478085
@@ -41,80 +41,26 @@ inventory:
     md5: 7aeaf17076c9f6b616baee446cce5c0e
     time: 1410478085
   /syllabus/index.html:
-    md5: ecb5b761202d0936dbdce45e328f12ed
-    time: 1410478085
+    md5: e7ff269168b8cf24d411dc2d947a0a77
+    time: 1410478236
   /people/index.html:
     md5: 90ce90510a8248d51accee8d8a6db7c9
     time: 1410104563
   /work-in-progress/index.html:
-    md5: 7a2a065d38c6d41226575397a376fd93
-    time: 1410478085
+    md5: 997eb5429e0cdacfda371eab363fbff4
+    time: 1410478236
   /syllabus/assignment-1/index.html:
-    md5: 330ae35db3d7f7cc3487979730061ec0
-    time: 1410478085
+    md5: b3c01473ea8295fd9fb863fe7701354c
+    time: 1410478236
   /syllabus/assignment-2/index.html:
-    md5: bd872c39a0d3e9a76dd04021feacd358
-    time: 1410478085
+    md5: 747aacec4edc7fa1956c493680a4f56f
+    time: 1410478236
   /syllabus/assignment-3/index.html:
-    md5: f5f904fec304a304cdc8da32966cf9c9
-    time: 1410478085
+    md5: 6c96659f8c9abddb378168b9e6ff143a
+    time: 1410478236
   /syllabus/assignment-4/index.html:
-    md5: 57f67c221b391413abce761724e62ac0
-    time: 1410478085
-  /work-in-progress/one/index.html:
-    md5: 0e07169af582375569b21f6c6df47ca2
-    time: 1410478085
-  /work-in-progress/one/self-portrait/index.html:
-    md5: 9b9c5fcfc1e897b9e13c5685e31e9964
-    time: 1410478085
-  /work-in-progress/one/archive/index.html:
-    md5: 58ac526757c9b9d6b8a9288d9615a43e
-    time: 1410478085
-  /work-in-progress/one/tag-set-name/index.html:
-    md5: e108cf28ed19e9fda26e93697dc14767
-    time: 1410478085
-  /work-in-progress/two/index.html:
-    md5: b855e600bd5cbca3c8ab6834c183f9dc
-    time: 1410478085
-  /work-in-progress/two/next-test/index.html:
-    md5: b121b0afca41a09d0468d01521fde818
-    time: 1410478086
-  /work-in-progress/two/archive/index.html:
-    md5: 65b35d7f9022d78eb95c6c71d2fb61bd
-    time: 1410478086
-  /work-in-progress/two/tags/index.html:
-    md5: 12ff3870f9c730b9f225d193c63b1951
-    time: 1410478086
-  /work-in-progress/three/index.html:
-    md5: 2a4b2ba5bc62483f0826c1f36e4cae19
-    time: 1410478086
-  /work-in-progress/four/index.html:
-    md5: e12a2ee1952c57d849c279b0b1d46dd3
-    time: 1410478086
-  /work-in-progress/five/index.html:
-    md5: 946b2163f926627663d516bfe37e4031
-    time: 1410478086
-  /work-in-progress/six/index.html:
-    md5: 046e20580f6d0aa9d6f2d73a6b173110
-    time: 1410478086
-  /work-in-progress/seven/index.html:
-    md5: d13a7b4d7f506f3dcc6ab4f8886af43c
-    time: 1410478086
-  /work-in-progress/eight/index.html:
-    md5: f9693725f89bf1d8d05f5e795bd437a7
-    time: 1410478086
-  /work-in-progress/nine/index.html:
-    md5: d14420a8369c7c11748b0d19e2211f20
-    time: 1410478086
-  /work-in-progress/ten/index.html:
-    md5: 24c8a0b0c7bbbe41949c38d4f6ebf797
-    time: 1410478086
-  /work-in-progress/eleven/index.html:
-    md5: acbba3ebf9e54dd193f0a3c58fbf7df0
-    time: 1410478086
-  /work-in-progress/twelve/index.html:
-    md5: d27eb5126c6aae3b030f718f5e0c9c89
-    time: 1410478086
+    md5: 7f9138ede82b9a1ee1c87b5418c9be52
+    time: 1410478236
   /resources/art-installations/index.html:
     md5: c840130a6a501704088eca034f60c86f
     time: 1410478086
@@ -125,8 +71,8 @@ inventory:
     md5: c014b92faa9f7fcd438334333af98815
     time: 1410478086
   /people/micah/index.html:
-    md5: 6ca89b04a2f21cf18881e9356e783104
-    time: 1410478086
+    md5: 2418e3e482394014cdaaf46d5db94fb6
+    time: 1410478237
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
@@ -134,8 +80,8 @@ inventory:
     md5: 74401e5e2f4b3486cee9fa21b4c69709
     time: 1410478086
   /feed.xml:
-    md5: 64b9bc22ff7f1db7cd1ce1d84c41088b
-    time: 1410478086
+    md5: 693e98835adece36f97005c7fa75cc08
+    time: 1410478237
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
