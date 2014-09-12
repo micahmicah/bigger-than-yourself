@@ -1,5 +1,5 @@
 ---
-time: 1410550931
+time: 1410551085
 inventory:
   /bigger-than-yourself/index.html:
     md5: 810c1594bad4decec9f66014872396ca
@@ -44,17 +44,17 @@ inventory:
     md5: a3fa5a99b76bf62a2696e1d7427a4ae6
     time: 1410550927
   /syllabus/index.html:
-    md5: f5768ea441bc8d51f3987c645c242510
-    time: 1410550927
+    md5: 9891fdf2313dadc5d48ef40f4e02ca63
+    time: 1410551084
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
     md5: fac94f6ccc88f884ce3244501fa460b3
     time: 1410550927
-  /syllabus/assignment-1/index.html:
-    md5: bd0fe2f2213cf4454c9a007ad5045a95
-    time: 1410550927
+  /syllabus/exercise-1/index.html:
+    md5: 1a3aec77142bfc30a825ded653dd279a
+    time: 1410551084
   /resources/art-installations/index.html:
     md5: a7557e5695635b588cb7590d8f3d3236
     time: 1410550927
@@ -74,8 +74,8 @@ inventory:
     md5: 45e79665ad2846081b29f03a2798b09d
     time: 1410550928
   /feed.xml:
-    md5: f086fb1d63e8287f2cfa11028d8013e5
-    time: 1410550928
+    md5: df84df2488d5f9c098c45acdb96cc572
+    time: 1410551085
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
