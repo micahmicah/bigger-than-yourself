@@ -1,5 +1,5 @@
 ---
-time: 1410551085
+time: 1410551138
 inventory:
   /bigger-than-yourself/index.html:
     md5: 810c1594bad4decec9f66014872396ca
@@ -53,8 +53,8 @@ inventory:
     md5: fac94f6ccc88f884ce3244501fa460b3
     time: 1410550927
   /syllabus/exercise-1/index.html:
-    md5: 1a3aec77142bfc30a825ded653dd279a
-    time: 1410551084
+    md5: b15e3d5ea568c028c9338d34c9e29225
+    time: 1410551137
   /resources/art-installations/index.html:
     md5: a7557e5695635b588cb7590d8f3d3236
     time: 1410550927
@@ -74,8 +74,8 @@ inventory:
     md5: 45e79665ad2846081b29f03a2798b09d
     time: 1410550928
   /feed.xml:
-    md5: df84df2488d5f9c098c45acdb96cc572
-    time: 1410551085
+    md5: cc5caeba70a833b80e73703b2c2d0c6b
+    time: 1410551137
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
