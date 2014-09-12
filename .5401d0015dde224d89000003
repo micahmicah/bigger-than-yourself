@@ -1,5 +1,5 @@
 ---
-time: 1410550676
+time: 1410550722
 inventory:
   /bigger-than-yourself/index.html:
     md5: 40cbdddf859bdfd12bb7fcbe4a50db70
@@ -41,8 +41,8 @@ inventory:
     md5: 7aeaf17076c9f6b616baee446cce5c0e
     time: 1410478085
   /syllabus/index.html:
-    md5: 98524ea854e8f4191ce5c9558a0d031a
-    time: 1410550675
+    md5: 664769eae5027a00bb96f3b771344ea6
+    time: 1410550720
   /people/index.html:
     md5: 90ce90510a8248d51accee8d8a6db7c9
     time: 1410104563
@@ -68,11 +68,11 @@ inventory:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 639668ed7459b4bd3e964f0e3db65851
-    time: 1410550675
+    md5: 51790306bdd85107d78445fba3165bf1
+    time: 1410550720
   /feed.xml:
-    md5: aa48aea1b80ec87008ce626928d813e5
-    time: 1410550675
+    md5: 03863941c081c28e1220ecc32e16d263
+    time: 1410550720
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -139,6 +139,9 @@ inventory:
   /assets/style/scss/type.scss:
     md5: d011e2f705b523bcda9a9e4d78b67bed
     time: 1410042459
+  /assets/Installation Site Permit.pdf:
+    md5: 9d4acf2249681da1019a996dbbcd2a16
+    time: 1410550721
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
