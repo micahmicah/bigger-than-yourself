@@ -1,5 +1,5 @@
 ---
-time: 1410478238
+time: 1410550676
 inventory:
   /bigger-than-yourself/index.html:
     md5: 40cbdddf859bdfd12bb7fcbe4a50db70
@@ -41,8 +41,8 @@ inventory:
     md5: 7aeaf17076c9f6b616baee446cce5c0e
     time: 1410478085
   /syllabus/index.html:
-    md5: e7ff269168b8cf24d411dc2d947a0a77
-    time: 1410478236
+    md5: 98524ea854e8f4191ce5c9558a0d031a
+    time: 1410550675
   /people/index.html:
     md5: 90ce90510a8248d51accee8d8a6db7c9
     time: 1410104563
@@ -51,15 +51,6 @@ inventory:
     time: 1410478236
   /syllabus/assignment-1/index.html:
     md5: b3c01473ea8295fd9fb863fe7701354c
-    time: 1410478236
-  /syllabus/assignment-2/index.html:
-    md5: 747aacec4edc7fa1956c493680a4f56f
-    time: 1410478236
-  /syllabus/assignment-3/index.html:
-    md5: 6c96659f8c9abddb378168b9e6ff143a
-    time: 1410478236
-  /syllabus/assignment-4/index.html:
-    md5: 7f9138ede82b9a1ee1c87b5418c9be52
     time: 1410478236
   /resources/art-installations/index.html:
     md5: c840130a6a501704088eca034f60c86f
@@ -77,11 +68,11 @@ inventory:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 74401e5e2f4b3486cee9fa21b4c69709
-    time: 1410478086
+    md5: 639668ed7459b4bd3e964f0e3db65851
+    time: 1410550675
   /feed.xml:
-    md5: 693e98835adece36f97005c7fa75cc08
-    time: 1410478237
+    md5: aa48aea1b80ec87008ce626928d813e5
+    time: 1410550675
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
