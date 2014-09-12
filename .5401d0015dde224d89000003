@@ -1,78 +1,81 @@
 ---
-time: 1410550722
+time: 1410550879
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 40cbdddf859bdfd12bb7fcbe4a50db70
-    time: 1410478236
+    md5: 961255de531e5ff3fbd2d9ac6350734c
+    time: 1410550874
   /index.html:
-    md5: 40cbdddf859bdfd12bb7fcbe4a50db70
-    time: 1410478236
+    md5: 961255de531e5ff3fbd2d9ac6350734c
+    time: 1410550874
   /resources/index.html:
-    md5: 09145919e52ebee7e7811edcb816ab96
-    time: 1410478236
+    md5: 8a16ab36e68e0bc82839ed7f196f4236
+    time: 1410550874
+  /resources/crit-forms/index.html:
+    md5: 0b841f4078b4d0a2a75f7b2aaaabedb0
+    time: 1410550874
   /resources/vinyl-cutting/index.html:
-    md5: a89e7797da8a23bc1549e9e73a84930e
-    time: 1410478085
+    md5: 0920225d9a9c473d5edc96bf1fba57aa
+    time: 1410550874
   /resources/laser-cutting/index.html:
-    md5: 5fe79214b6835878680c68b739999d57
-    time: 1410478085
+    md5: 25047ef58f610060dc8b3f164c35008f
+    time: 1410550874
   /resources/bruce-mau-design/index.html:
-    md5: 9669e41139444037a73b0ba3adc5852a
-    time: 1410478085
+    md5: f17d11383b8e5f1bbb1fb177092ac3d1
+    time: 1410550875
   /resources/wade-guyton/index.html:
-    md5: 7d200d15765b85fe9c520d686bfb10a5
-    time: 1410478085
+    md5: b0b7747f1890f51bb30cbf30594b688b
+    time: 1410550875
   /resources/vincent-perrottet/index.html:
-    md5: 38d9b8033bdab5bf52a75489f877f793
-    time: 1410478085
+    md5: 8ea78ddf0486d7e22551f0c294dddb62
+    time: 1410550875
   /resources/e-roon-kang/index.html:
-    md5: 0db2d62a10f31c17d4558218018b8b7e
-    time: 1410478085
+    md5: ef37b946692e23551245bd95508f41d6
+    time: 1410550875
   /resources/applying-vinyl/index.html:
-    md5: 65c850ab63d642ca289930edb05368a7
-    time: 1410478085
+    md5: 991dd227f47c64f50659da60c9ba5ae1
+    time: 1410550875
   /resources/cnc-routing/index.html:
-    md5: f4b7850765c4efa03c1cace465058591
-    time: 1410478085
+    md5: 8ffe00220ce649d4d39c1701e1a832b2
+    time: 1410550875
   /resources/archive/index.html:
-    md5: 076bf2a358b0fb2fd756090009d35e31
-    time: 1410478085
+    md5: f2c59ccf2e27078869a9ca1267a8b07c
+    time: 1410550875
   /resources/tags/index.html:
-    md5: 7aeaf17076c9f6b616baee446cce5c0e
-    time: 1410478085
+    md5: f1f5a55bc698982634d46648f0cdb921
+    time: 1410550875
   /syllabus/index.html:
-    md5: 664769eae5027a00bb96f3b771344ea6
-    time: 1410550720
+    md5: 813cb100124f710b5b9fe24fe95022f0
+    time: 1410550875
   /people/index.html:
     md5: 90ce90510a8248d51accee8d8a6db7c9
     time: 1410104563
   /work-in-progress/index.html:
-    md5: 997eb5429e0cdacfda371eab363fbff4
-    time: 1410478236
+    md5: 78068e510ff4c59f49a15bae5bba6ab5
+    time: 1410550875
   /syllabus/assignment-1/index.html:
-    md5: b3c01473ea8295fd9fb863fe7701354c
-    time: 1410478236
+    md5: eab000b8232087c3e33052274f546870
+    time: 1410550875
   /resources/art-installations/index.html:
-    md5: c840130a6a501704088eca034f60c86f
-    time: 1410478086
+    md5: 3d294dd80018ef149e6e7e116518d62c
+    time: 1410550875
   /resources/wayfinding-signage/index.html:
-    md5: fbac04259bfaf2dfdfed16f30ed651de
-    time: 1410478086
+    md5: 9026aa01f8b5d4c85c09d73ccb1e9884
+    time: 1410550875
   /resources/poster-design/index.html:
-    md5: c014b92faa9f7fcd438334333af98815
-    time: 1410478086
+    md5: 3be131b5db1f742abfeabc1c127d0d15
+    time: 1410550875
   /people/micah/index.html:
-    md5: 2418e3e482394014cdaaf46d5db94fb6
-    time: 1410478237
+    md5: 754dc20f6fdb2683e4a5bc1a40492f65
+    time: 1410550875
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 51790306bdd85107d78445fba3165bf1
-    time: 1410550720
+    md5: 2e792de81373e0622330f8a70fbde4dc
+    time: 1410550876
   /feed.xml:
-    md5: 03863941c081c28e1220ecc32e16d263
-    time: 1410550720
+    md5: adefe599cc0a9dd0fb54f80c81ecdbc9
+    time: 1410550876
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -142,6 +145,9 @@ inventory:
   /assets/Installation Site Permit.pdf:
     md5: 9d4acf2249681da1019a996dbbcd2a16
     time: 1410550721
+  /assets/Installation Site Permit-1.pdf:
+    md5: 9d4acf2249681da1019a996dbbcd2a16
+    time: 1410550876
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
