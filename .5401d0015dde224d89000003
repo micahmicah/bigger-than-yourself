@@ -1,81 +1,81 @@
 ---
-time: 1410550879
+time: 1410550931
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 961255de531e5ff3fbd2d9ac6350734c
-    time: 1410550874
+    md5: 810c1594bad4decec9f66014872396ca
+    time: 1410550926
   /index.html:
-    md5: 961255de531e5ff3fbd2d9ac6350734c
-    time: 1410550874
+    md5: 810c1594bad4decec9f66014872396ca
+    time: 1410550926
   /resources/index.html:
-    md5: 8a16ab36e68e0bc82839ed7f196f4236
-    time: 1410550874
+    md5: 0098430dd2ead30feff4b634b16fecb8
+    time: 1410550926
   /resources/crit-forms/index.html:
-    md5: 0b841f4078b4d0a2a75f7b2aaaabedb0
-    time: 1410550874
+    md5: 0e15ce951ed14482fd91ee2303223cab
+    time: 1410550926
   /resources/vinyl-cutting/index.html:
-    md5: 0920225d9a9c473d5edc96bf1fba57aa
-    time: 1410550874
+    md5: bad28a176a8605c473127c9cc5e351fe
+    time: 1410550927
   /resources/laser-cutting/index.html:
-    md5: 25047ef58f610060dc8b3f164c35008f
-    time: 1410550874
+    md5: 1366af083ee295fda2f068b746eb17eb
+    time: 1410550927
   /resources/bruce-mau-design/index.html:
-    md5: f17d11383b8e5f1bbb1fb177092ac3d1
-    time: 1410550875
+    md5: c1a8ce2d6ec39f7d92cd851264f2be66
+    time: 1410550927
   /resources/wade-guyton/index.html:
-    md5: b0b7747f1890f51bb30cbf30594b688b
-    time: 1410550875
+    md5: c8275f53a75d78403b6e74f2d82aa8a1
+    time: 1410550927
   /resources/vincent-perrottet/index.html:
-    md5: 8ea78ddf0486d7e22551f0c294dddb62
-    time: 1410550875
+    md5: f5f9059f535e82756f0966d836436771
+    time: 1410550927
   /resources/e-roon-kang/index.html:
-    md5: ef37b946692e23551245bd95508f41d6
-    time: 1410550875
+    md5: 33f025f0585724d116b7871f0b69cded
+    time: 1410550927
   /resources/applying-vinyl/index.html:
-    md5: 991dd227f47c64f50659da60c9ba5ae1
-    time: 1410550875
+    md5: ff70ba78d09b4bd0313117df25f080cc
+    time: 1410550927
   /resources/cnc-routing/index.html:
-    md5: 8ffe00220ce649d4d39c1701e1a832b2
-    time: 1410550875
+    md5: 8d6a5685c19d0294e5076106d6538b47
+    time: 1410550927
   /resources/archive/index.html:
-    md5: f2c59ccf2e27078869a9ca1267a8b07c
-    time: 1410550875
+    md5: 7deaad6f428898492d09e24cd3395918
+    time: 1410550927
   /resources/tags/index.html:
-    md5: f1f5a55bc698982634d46648f0cdb921
-    time: 1410550875
+    md5: a3fa5a99b76bf62a2696e1d7427a4ae6
+    time: 1410550927
   /syllabus/index.html:
-    md5: 813cb100124f710b5b9fe24fe95022f0
-    time: 1410550875
+    md5: f5768ea441bc8d51f3987c645c242510
+    time: 1410550927
   /people/index.html:
-    md5: 90ce90510a8248d51accee8d8a6db7c9
-    time: 1410104563
+    md5: 2c16c4bfb55edd5966fd1fd88592c6b5
+    time: 1410550927
   /work-in-progress/index.html:
-    md5: 78068e510ff4c59f49a15bae5bba6ab5
-    time: 1410550875
+    md5: fac94f6ccc88f884ce3244501fa460b3
+    time: 1410550927
   /syllabus/assignment-1/index.html:
-    md5: eab000b8232087c3e33052274f546870
-    time: 1410550875
+    md5: bd0fe2f2213cf4454c9a007ad5045a95
+    time: 1410550927
   /resources/art-installations/index.html:
-    md5: 3d294dd80018ef149e6e7e116518d62c
-    time: 1410550875
+    md5: a7557e5695635b588cb7590d8f3d3236
+    time: 1410550927
   /resources/wayfinding-signage/index.html:
-    md5: 9026aa01f8b5d4c85c09d73ccb1e9884
-    time: 1410550875
+    md5: 956268df2860b7677258f2b724717916
+    time: 1410550927
   /resources/poster-design/index.html:
-    md5: 3be131b5db1f742abfeabc1c127d0d15
-    time: 1410550875
+    md5: b3a902a107883c2e31b6fa4ecc89de43
+    time: 1410550927
   /people/micah/index.html:
-    md5: 754dc20f6fdb2683e4a5bc1a40492f65
-    time: 1410550875
+    md5: ee6cb06fa80a998e09996e89ee881428
+    time: 1410550928
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 2e792de81373e0622330f8a70fbde4dc
-    time: 1410550876
+    md5: 45e79665ad2846081b29f03a2798b09d
+    time: 1410550928
   /feed.xml:
-    md5: adefe599cc0a9dd0fb54f80c81ecdbc9
-    time: 1410550876
+    md5: f086fb1d63e8287f2cfa11028d8013e5
+    time: 1410550928
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
