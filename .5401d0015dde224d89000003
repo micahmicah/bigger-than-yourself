@@ -1,81 +1,84 @@
 ---
-time: 1410551138
+time: 1411090110
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 810c1594bad4decec9f66014872396ca
-    time: 1410550926
+    md5: ff06ed38678f2db2d3fe113d84b02f10
+    time: 1411090104
   /index.html:
-    md5: 810c1594bad4decec9f66014872396ca
-    time: 1410550926
+    md5: ff06ed38678f2db2d3fe113d84b02f10
+    time: 1411090104
   /resources/index.html:
-    md5: 0098430dd2ead30feff4b634b16fecb8
-    time: 1410550926
+    md5: 27faa63e40aeeb481d45efb9d81ff9b4
+    time: 1411090104
+  /resources/oce/index.html:
+    md5: 40dec2383b50b2528b81c5d8fdb63ef2
+    time: 1411090104
   /resources/crit-forms/index.html:
-    md5: 0e15ce951ed14482fd91ee2303223cab
-    time: 1410550926
+    md5: 35b666960bdb9b5c78faf7b877cefe8e
+    time: 1411090104
   /resources/vinyl-cutting/index.html:
-    md5: bad28a176a8605c473127c9cc5e351fe
-    time: 1410550927
+    md5: 12546c5773f68da2dae6b7b8d194e4b4
+    time: 1411090104
   /resources/laser-cutting/index.html:
-    md5: 1366af083ee295fda2f068b746eb17eb
-    time: 1410550927
+    md5: b7145b1db1dfdd150112ccc38a6fc035
+    time: 1411090104
   /resources/bruce-mau-design/index.html:
-    md5: c1a8ce2d6ec39f7d92cd851264f2be66
-    time: 1410550927
+    md5: ea522dfb5d4009f24163076573ffd63d
+    time: 1411090105
   /resources/wade-guyton/index.html:
-    md5: c8275f53a75d78403b6e74f2d82aa8a1
-    time: 1410550927
+    md5: c0e1712adb4300849b2bf76b71e2ec02
+    time: 1411090105
   /resources/vincent-perrottet/index.html:
-    md5: f5f9059f535e82756f0966d836436771
-    time: 1410550927
+    md5: 1d5a7b0c284b3e81011dd303a2b4338b
+    time: 1411090105
   /resources/e-roon-kang/index.html:
-    md5: 33f025f0585724d116b7871f0b69cded
-    time: 1410550927
+    md5: 96face89d7c2165ce86dd82f2f880fed
+    time: 1411090105
   /resources/applying-vinyl/index.html:
-    md5: ff70ba78d09b4bd0313117df25f080cc
-    time: 1410550927
+    md5: 8db91af9d5e4f98572208f2bf1c8ac69
+    time: 1411090105
   /resources/cnc-routing/index.html:
-    md5: 8d6a5685c19d0294e5076106d6538b47
-    time: 1410550927
+    md5: 8da013123fc6b1fc6d7d4f440d18359e
+    time: 1411090105
   /resources/archive/index.html:
-    md5: 7deaad6f428898492d09e24cd3395918
-    time: 1410550927
+    md5: 9b93faf8cabcc9fa81a04411c87c9796
+    time: 1411090105
   /resources/tags/index.html:
-    md5: a3fa5a99b76bf62a2696e1d7427a4ae6
-    time: 1410550927
+    md5: 1e74f0aed2708076d49ed93b158a2fde
+    time: 1411090105
   /syllabus/index.html:
-    md5: 9891fdf2313dadc5d48ef40f4e02ca63
-    time: 1410551084
+    md5: 163a738eb8742346a9037c0ed716097b
+    time: 1411090105
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: fac94f6ccc88f884ce3244501fa460b3
-    time: 1410550927
+    md5: 4f2390d74eeaf0d6476dbd17cbdb203c
+    time: 1411090105
   /syllabus/exercise-1/index.html:
-    md5: b15e3d5ea568c028c9338d34c9e29225
-    time: 1410551137
+    md5: 1f3f09d99e4b737ff0bd8d63ecbe7db1
+    time: 1411090105
   /resources/art-installations/index.html:
-    md5: a7557e5695635b588cb7590d8f3d3236
-    time: 1410550927
+    md5: 3b05717a2c803d6a957149e0f687aa30
+    time: 1411090105
   /resources/wayfinding-signage/index.html:
-    md5: 956268df2860b7677258f2b724717916
-    time: 1410550927
+    md5: eddd149ede6201553006b1c75bc4626e
+    time: 1411090106
   /resources/poster-design/index.html:
-    md5: b3a902a107883c2e31b6fa4ecc89de43
-    time: 1410550927
+    md5: 201e08c7c9443ab227454196df6f4dbc
+    time: 1411090106
   /people/micah/index.html:
-    md5: ee6cb06fa80a998e09996e89ee881428
-    time: 1410550928
+    md5: 600ebe2ec6e8c96baf402708b25bb57a
+    time: 1411090106
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 45e79665ad2846081b29f03a2798b09d
-    time: 1410550928
+    md5: 8d473b1ed093f42b5fe70e9fd03d3dc4
+    time: 1411090106
   /feed.xml:
-    md5: cc5caeba70a833b80e73703b2c2d0c6b
-    time: 1410551137
+    md5: c772393fda88c22a0be5494f8deb718b
+    time: 1411090106
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -148,6 +151,9 @@ inventory:
   /assets/Installation Site Permit-1.pdf:
     md5: 9d4acf2249681da1019a996dbbcd2a16
     time: 1410550876
+  /assets/~Oce TDS 400-450 191103-  018.jpg:
+    md5: 40535f90aa94a0456d02a9f0bd272fde
+    time: 1411090106
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
