@@ -1,63 +1,63 @@
 ---
-time: 1411090110
+time: 1411090249
 inventory:
   /bigger-than-yourself/index.html:
-    md5: ff06ed38678f2db2d3fe113d84b02f10
-    time: 1411090104
+    md5: 459923d473b9df8f9e54baedd354045d
+    time: 1411090243
   /index.html:
-    md5: ff06ed38678f2db2d3fe113d84b02f10
-    time: 1411090104
+    md5: 459923d473b9df8f9e54baedd354045d
+    time: 1411090243
   /resources/index.html:
-    md5: 27faa63e40aeeb481d45efb9d81ff9b4
-    time: 1411090104
+    md5: c12ece8cd52807c8c9e44e1415d5a75a
+    time: 1411090243
   /resources/oce/index.html:
-    md5: 40dec2383b50b2528b81c5d8fdb63ef2
-    time: 1411090104
+    md5: d0f46f9fad91dce872937bc050f7745b
+    time: 1411090243
   /resources/crit-forms/index.html:
-    md5: 35b666960bdb9b5c78faf7b877cefe8e
-    time: 1411090104
+    md5: c73872f0ac631839a227be20b2a2ec73
+    time: 1411090243
   /resources/vinyl-cutting/index.html:
-    md5: 12546c5773f68da2dae6b7b8d194e4b4
-    time: 1411090104
+    md5: 1eb41c1118f0f152290f210da8360b86
+    time: 1411090243
   /resources/laser-cutting/index.html:
-    md5: b7145b1db1dfdd150112ccc38a6fc035
-    time: 1411090104
+    md5: 0584ca5e9b96de74fe4ab31b2a00db9c
+    time: 1411090243
   /resources/bruce-mau-design/index.html:
-    md5: ea522dfb5d4009f24163076573ffd63d
-    time: 1411090105
+    md5: ab1556ace5f78350a78c4507f81d47fd
+    time: 1411090243
   /resources/wade-guyton/index.html:
-    md5: c0e1712adb4300849b2bf76b71e2ec02
-    time: 1411090105
+    md5: c39ce88e30b4abf045d6849c6e2b33bc
+    time: 1411090243
   /resources/vincent-perrottet/index.html:
-    md5: 1d5a7b0c284b3e81011dd303a2b4338b
-    time: 1411090105
+    md5: ba6bd34e3cffd8578e9bf42a1f526455
+    time: 1411090243
   /resources/e-roon-kang/index.html:
-    md5: 96face89d7c2165ce86dd82f2f880fed
-    time: 1411090105
+    md5: 20a0e2a2e60008cad0cacc99b0d62f83
+    time: 1411090243
   /resources/applying-vinyl/index.html:
-    md5: 8db91af9d5e4f98572208f2bf1c8ac69
-    time: 1411090105
+    md5: 618767ebd381ea2e4f4c34706c02c683
+    time: 1411090243
   /resources/cnc-routing/index.html:
-    md5: 8da013123fc6b1fc6d7d4f440d18359e
-    time: 1411090105
+    md5: 886d5ba0a24115226baad4d486e223b0
+    time: 1411090244
   /resources/archive/index.html:
-    md5: 9b93faf8cabcc9fa81a04411c87c9796
-    time: 1411090105
+    md5: c0c86e136d61c8fb8cb04a2a5cdabc75
+    time: 1411090244
   /resources/tags/index.html:
-    md5: 1e74f0aed2708076d49ed93b158a2fde
-    time: 1411090105
+    md5: 173f9377ad84e1812ccdfb41e630f365
+    time: 1411090244
   /syllabus/index.html:
-    md5: 163a738eb8742346a9037c0ed716097b
-    time: 1411090105
+    md5: dbf4d4af4d7afc5ec61df69a3831e796
+    time: 1411090244
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: 4f2390d74eeaf0d6476dbd17cbdb203c
-    time: 1411090105
+    md5: b05eacbcf30b8713635616e5c1159ccc
+    time: 1411090244
   /syllabus/exercise-1/index.html:
-    md5: 1f3f09d99e4b737ff0bd8d63ecbe7db1
-    time: 1411090105
+    md5: 52fe80f9d3f94de500c8db18257fac2a
+    time: 1411090244
   /resources/art-installations/index.html:
     md5: 3b05717a2c803d6a957149e0f687aa30
     time: 1411090105
@@ -68,17 +68,17 @@ inventory:
     md5: 201e08c7c9443ab227454196df6f4dbc
     time: 1411090106
   /people/micah/index.html:
-    md5: 600ebe2ec6e8c96baf402708b25bb57a
-    time: 1411090106
+    md5: 793c298d3cc4164a38f2063aee97cdee
+    time: 1411090244
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 8d473b1ed093f42b5fe70e9fd03d3dc4
-    time: 1411090106
+    md5: e83410553e6d39d276444288fd03e2fd
+    time: 1411090244
   /feed.xml:
-    md5: c772393fda88c22a0be5494f8deb718b
-    time: 1411090106
+    md5: 7ba8342632f0f318fcee554c79604605
+    time: 1411090244
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -154,6 +154,9 @@ inventory:
   /assets/~Oce TDS 400-450 191103-  018.jpg:
     md5: 40535f90aa94a0456d02a9f0bd272fde
     time: 1411090106
+  /assets/graphtec-ce6000-120-vinyl-cutter.jpg:
+    md5: e81068352f10474df07b6593b5d5ed45
+    time: 1411090244
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
