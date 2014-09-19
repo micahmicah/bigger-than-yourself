@@ -1,63 +1,63 @@
 ---
-time: 1411090249
+time: 1411090297
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 459923d473b9df8f9e54baedd354045d
-    time: 1411090243
+    md5: abb6d4fd06501570fa7a4f3710739bb0
+    time: 1411090291
   /index.html:
-    md5: 459923d473b9df8f9e54baedd354045d
-    time: 1411090243
+    md5: abb6d4fd06501570fa7a4f3710739bb0
+    time: 1411090291
   /resources/index.html:
-    md5: c12ece8cd52807c8c9e44e1415d5a75a
-    time: 1411090243
+    md5: d588de7578ec2e0d22b053e2d0d3564c
+    time: 1411090291
   /resources/oce/index.html:
-    md5: d0f46f9fad91dce872937bc050f7745b
-    time: 1411090243
+    md5: 472b942795f519c7112e2780d51352e2
+    time: 1411090291
   /resources/crit-forms/index.html:
-    md5: c73872f0ac631839a227be20b2a2ec73
-    time: 1411090243
+    md5: 218aca15a91326a8195fed5f25345169
+    time: 1411090292
   /resources/vinyl-cutting/index.html:
-    md5: 1eb41c1118f0f152290f210da8360b86
-    time: 1411090243
+    md5: a3befde7bd18fcdd086494df103cca28
+    time: 1411090292
   /resources/laser-cutting/index.html:
-    md5: 0584ca5e9b96de74fe4ab31b2a00db9c
-    time: 1411090243
+    md5: 1938e7038b214dc780bb533abdf647d1
+    time: 1411090292
   /resources/bruce-mau-design/index.html:
-    md5: ab1556ace5f78350a78c4507f81d47fd
-    time: 1411090243
+    md5: 2e8922c7b3a28d8cd4c1c2daf316d69f
+    time: 1411090292
   /resources/wade-guyton/index.html:
-    md5: c39ce88e30b4abf045d6849c6e2b33bc
-    time: 1411090243
+    md5: b8ce0da74a3466f90f7ded1aa18359b9
+    time: 1411090292
   /resources/vincent-perrottet/index.html:
-    md5: ba6bd34e3cffd8578e9bf42a1f526455
-    time: 1411090243
+    md5: 2dcc746f60d7472a39e3b3bfa02d706a
+    time: 1411090292
   /resources/e-roon-kang/index.html:
-    md5: 20a0e2a2e60008cad0cacc99b0d62f83
-    time: 1411090243
+    md5: 886ab177208f4ccf5c1efcffac80ae1c
+    time: 1411090292
   /resources/applying-vinyl/index.html:
-    md5: 618767ebd381ea2e4f4c34706c02c683
-    time: 1411090243
+    md5: 890e41aa018ca7369081a589e3c88b8e
+    time: 1411090292
   /resources/cnc-routing/index.html:
-    md5: 886d5ba0a24115226baad4d486e223b0
-    time: 1411090244
+    md5: 95ab7259610dd6a5e65a364e7c197434
+    time: 1411090292
   /resources/archive/index.html:
-    md5: c0c86e136d61c8fb8cb04a2a5cdabc75
-    time: 1411090244
+    md5: 92f24c7324012f08b6bca7415ac2c048
+    time: 1411090292
   /resources/tags/index.html:
-    md5: 173f9377ad84e1812ccdfb41e630f365
-    time: 1411090244
+    md5: 423f021e5695e2ac44bef12fd975d463
+    time: 1411090292
   /syllabus/index.html:
-    md5: dbf4d4af4d7afc5ec61df69a3831e796
-    time: 1411090244
+    md5: dbc2e8036ddaee8a965289b190463e1a
+    time: 1411090292
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: b05eacbcf30b8713635616e5c1159ccc
-    time: 1411090244
+    md5: 0d190294ee0aa007ef0652b235b12e95
+    time: 1411090293
   /syllabus/exercise-1/index.html:
-    md5: 52fe80f9d3f94de500c8db18257fac2a
-    time: 1411090244
+    md5: adf7c1fb6912ab91cc9dfb678733bdac
+    time: 1411090293
   /resources/art-installations/index.html:
     md5: 3b05717a2c803d6a957149e0f687aa30
     time: 1411090105
@@ -68,17 +68,17 @@ inventory:
     md5: 201e08c7c9443ab227454196df6f4dbc
     time: 1411090106
   /people/micah/index.html:
-    md5: 793c298d3cc4164a38f2063aee97cdee
-    time: 1411090244
+    md5: ca7f2d9f075d338ffac988a986caefb9
+    time: 1411090293
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: e83410553e6d39d276444288fd03e2fd
-    time: 1411090244
+    md5: 74e68d8db6470c5322dcd83dacc81740
+    time: 1411090293
   /feed.xml:
-    md5: 7ba8342632f0f318fcee554c79604605
-    time: 1411090244
+    md5: 782b10fb84122f40642804aca17f8dd2
+    time: 1411090293
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
