@@ -1,69 +1,69 @@
 ---
-time: 1411136891
+time: 1411136946
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 3c6bbdd8e548523aa2c5bb55836a53ca
-    time: 1411136885
+    md5: 128b933c87aafe571c635c3ee4fd6920
+    time: 1411136940
   /index.html:
-    md5: 3c6bbdd8e548523aa2c5bb55836a53ca
-    time: 1411136885
+    md5: 128b933c87aafe571c635c3ee4fd6920
+    time: 1411136940
   /resources/index.html:
-    md5: e30f3d14695bacd77a6ec91b48f74fc3
-    time: 1411136885
+    md5: e8eb70721d6ea3f5fb145db337b6eea4
+    time: 1411136940
   /resources/sol-lewitt-documentary-at-bu/index.html:
-    md5: 802d27408f79b05cf93c4c3c20919f7e
-    time: 1411136885
+    md5: 9acfb384bcb1f4dbde04f3b94a9fc502
+    time: 1411136940
   /resources/examples-week-1/index.html:
-    md5: 925cecd4ad45de7b5dec27afed3d9c73
-    time: 1411136885
+    md5: 4f40293217b302133aa399d5f76aa561
+    time: 1411136941
   /resources/oce/index.html:
-    md5: 8cca167689933fd1a33d07ef9cca8705
-    time: 1411136885
+    md5: ed76e1b55b3369cda7c25b5e0cd287af
+    time: 1411136941
   /resources/crit-forms/index.html:
-    md5: c424f11182379622676c1d53696ff72b
-    time: 1411136885
+    md5: 0b9da906fe381fc177b490455751eb40
+    time: 1411136941
   /resources/vinyl-cutting/index.html:
-    md5: b324e7d38c276816effc431d3a3711ab
-    time: 1411136885
+    md5: 7a3bc980fd5a065c66e3644e5485172c
+    time: 1411136941
   /resources/laser-cutting/index.html:
-    md5: a3b5dcaa67ac43f8026c37f8b9c74263
-    time: 1411136885
+    md5: b3ad326ca23624f233dc42d0382bf98c
+    time: 1411136941
   /resources/bruce-mau-design/index.html:
-    md5: 6decc72d23839f7f0f1d03adcb403093
-    time: 1411136886
+    md5: dd70cefdf21a9eb82edf3c35927fff4d
+    time: 1411136941
   /resources/wade-guyton/index.html:
-    md5: 8c494f6d8b4432acffbce504026e42a0
-    time: 1411136886
+    md5: 23fef3db2cd07bf0a4660e286216717c
+    time: 1411136941
   /resources/vincent-perrottet/index.html:
-    md5: 85347ff5cbfa4a6b7c6fd8eb7c20472a
-    time: 1411136886
+    md5: 1b29f16a271159a280b6de3e7c92881e
+    time: 1411136941
   /resources/e-roon-kang/index.html:
-    md5: 34348463ab6b57e1bb818b44d99a2744
-    time: 1411136886
+    md5: faff679b07600c8247d7a70e6746208f
+    time: 1411136941
   /resources/applying-vinyl/index.html:
-    md5: 62d8bbd854974000fd6409296f75e224
-    time: 1411136886
+    md5: 2220f68f764a0a9b29cd10d6c1941c65
+    time: 1411136941
   /resources/cnc-routing/index.html:
-    md5: 2f1e62a3678b924ea47dc9414d29c7af
-    time: 1411136886
+    md5: 0a1ae232ed0956ebabbefc69558a3958
+    time: 1411136941
   /resources/archive/index.html:
-    md5: 20757b8a7bd7d3c52073b745cda9d062
-    time: 1411136886
+    md5: 5efbfe751a15bd6d22eff420165b132f
+    time: 1411136941
   /resources/tags/index.html:
-    md5: f2554786035bb3c0deeb701fc1a6f9c6
-    time: 1411136886
+    md5: 3cf92be3bb66cd8064c06b6281809c69
+    time: 1411136941
   /syllabus/index.html:
-    md5: e19e3c3ee6d0e6221fc28ac26191f076
-    time: 1411136886
+    md5: c9156ec9584321484074555eefd1a488
+    time: 1411136941
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: f934731ac5dafb114d6700b56e10601c
-    time: 1411136886
+    md5: 26be68f59f83171a684f24f9db97baa7
+    time: 1411136942
   /syllabus/exercise-1/index.html:
-    md5: bf454da756142d845aedba25fdfb8aec
-    time: 1411136887
+    md5: cad41237f5f8543e151d573ebd700a9d
+    time: 1411136942
   /resources/art-installations/index.html:
     md5: 05e999244abc1a1af2d5172db848c8da
     time: 1411136887
@@ -74,17 +74,17 @@ inventory:
     md5: ab8986c4024295ada9c9e926b2e2429e
     time: 1411136887
   /people/micah/index.html:
-    md5: 354c7d55e5cc90afaeb8150c3bed18d0
-    time: 1411136887
+    md5: 5f966542e4c882acfd38dca405071a9f
+    time: 1411136942
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 5572caec6dddb20c3a8fbdb1824d4bce
-    time: 1411136887
+    md5: c67a0e7c9aea65f279c813e26d7122b5
+    time: 1411136942
   /feed.xml:
-    md5: 96720f0c6580752478be2d1951648469
-    time: 1411136887
+    md5: d7a7af0aaf9888d78f76b8cce5ddcb69
+    time: 1411136942
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -169,6 +169,9 @@ inventory:
   /assets/zoom.jpg:
     md5: 4a6803794a328d9039256b1925e08371
     time: 1411091362
+  /assets/Screen Shot 2014-09-19 at 10.28.35 AM.png:
+    md5: 21e2285b04c29734df0f92abba9bab85
+    time: 1411136942
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
