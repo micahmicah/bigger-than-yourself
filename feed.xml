@@ -3,7 +3,20 @@
   <channel>
     <title>Bigger Than Yourself</title>
     <link>http://biggerthan.micahbarett.info</link>
-    <pubDate>Fri, 19 Sep 2014 14:29:02 +0000</pubDate>
+    <pubDate>Fri, 19 Sep 2014 21:14:15 +0000</pubDate>
+    
+    <item>
+      <title>Bad Large Thing</title>
+      <link>http://biggerthan.micahbarett.info/resources/bad-large-thing</link>
+      <pubDate>Fri, 19 Sep 2014 17:12:00 -0400</pubDate>
+      <author>Micah Barrett</author>
+      <guid>http://biggerthan.micahbarett.info/resources/bad-large-thing</guid>
+      <description>&lt;h2&gt;Bad example of scaling!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/IMG_3607.jpg&quot; alt=&quot;IMG_3607&quot;&gt; &lt;img src=&quot;/assets/IMG_3607.jpg&quot; alt=&quot;IMG_3607&quot;&gt; 
+&lt;img src=&quot;/assets/IMG_3606.jpg&quot; alt=&quot;IMG_3606&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sol Lewitt Documentary at BU</title>

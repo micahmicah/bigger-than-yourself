@@ -1,90 +1,93 @@
 ---
-time: 1411136946
+time: 1411161279
 inventory:
   /bigger-than-yourself/index.html:
-    md5: 128b933c87aafe571c635c3ee4fd6920
-    time: 1411136940
+    md5: 77cd07e715276dbb069d48e871425eba
+    time: 1411161253
   /index.html:
-    md5: 128b933c87aafe571c635c3ee4fd6920
-    time: 1411136940
+    md5: 77cd07e715276dbb069d48e871425eba
+    time: 1411161253
   /resources/index.html:
-    md5: e8eb70721d6ea3f5fb145db337b6eea4
-    time: 1411136940
+    md5: 291bd4536ca6873b2f8e889b2e2dde81
+    time: 1411161254
+  /resources/bad-large-thing/index.html:
+    md5: 94d37dfa2478bcf6435710fd4abbd236
+    time: 1411161254
   /resources/sol-lewitt-documentary-at-bu/index.html:
-    md5: 9acfb384bcb1f4dbde04f3b94a9fc502
-    time: 1411136940
+    md5: 976d13e40a76316860c49531eb8a7df4
+    time: 1411161254
   /resources/examples-week-1/index.html:
-    md5: 4f40293217b302133aa399d5f76aa561
-    time: 1411136941
+    md5: 9c341a8facac0c825bad771a2ebb595d
+    time: 1411161254
   /resources/oce/index.html:
-    md5: ed76e1b55b3369cda7c25b5e0cd287af
-    time: 1411136941
+    md5: bf126744b05d54aa3bca35e958a4026d
+    time: 1411161254
   /resources/crit-forms/index.html:
-    md5: 0b9da906fe381fc177b490455751eb40
-    time: 1411136941
+    md5: d41ae284323853051ba2af5dea0311fa
+    time: 1411161254
   /resources/vinyl-cutting/index.html:
-    md5: 7a3bc980fd5a065c66e3644e5485172c
-    time: 1411136941
+    md5: b813986e95393399f1548e686a62a6e1
+    time: 1411161254
   /resources/laser-cutting/index.html:
-    md5: b3ad326ca23624f233dc42d0382bf98c
-    time: 1411136941
+    md5: 4d05872f79ed9bb362b74964d86ab90c
+    time: 1411161254
   /resources/bruce-mau-design/index.html:
-    md5: dd70cefdf21a9eb82edf3c35927fff4d
-    time: 1411136941
+    md5: f88c72cf85332402c9af0fd644bc4a65
+    time: 1411161254
   /resources/wade-guyton/index.html:
-    md5: 23fef3db2cd07bf0a4660e286216717c
-    time: 1411136941
+    md5: 8e6c7bb2bbdba7cfe93c81054bd3965a
+    time: 1411161254
   /resources/vincent-perrottet/index.html:
-    md5: 1b29f16a271159a280b6de3e7c92881e
-    time: 1411136941
+    md5: 12ca93fb09d5f1a73e6a44dd1a493012
+    time: 1411161254
   /resources/e-roon-kang/index.html:
-    md5: faff679b07600c8247d7a70e6746208f
-    time: 1411136941
+    md5: a51f69f05fb927f758241494dd6abcfe
+    time: 1411161254
   /resources/applying-vinyl/index.html:
-    md5: 2220f68f764a0a9b29cd10d6c1941c65
-    time: 1411136941
+    md5: 54f3f142d78e483c9014df6dc0e558ce
+    time: 1411161254
   /resources/cnc-routing/index.html:
-    md5: 0a1ae232ed0956ebabbefc69558a3958
-    time: 1411136941
+    md5: 4b583f1c2bdf0fda9a106de882c3d098
+    time: 1411161255
   /resources/archive/index.html:
-    md5: 5efbfe751a15bd6d22eff420165b132f
-    time: 1411136941
+    md5: 1747a3faebedcc33a1d9948d83be32e0
+    time: 1411161255
   /resources/tags/index.html:
-    md5: 3cf92be3bb66cd8064c06b6281809c69
-    time: 1411136941
+    md5: 3526be58e334b3def08dc96cbac49f98
+    time: 1411161255
   /syllabus/index.html:
-    md5: c9156ec9584321484074555eefd1a488
-    time: 1411136941
+    md5: f4d406186f743e228556b8c4c4a9765a
+    time: 1411161255
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: 26be68f59f83171a684f24f9db97baa7
-    time: 1411136942
+    md5: 4bc6da367c29bcc3dd579bbef6ae447d
+    time: 1411161255
   /syllabus/exercise-1/index.html:
-    md5: cad41237f5f8543e151d573ebd700a9d
-    time: 1411136942
+    md5: 6293fe611925b8bf4475c387af92171d
+    time: 1411161255
   /resources/art-installations/index.html:
-    md5: 05e999244abc1a1af2d5172db848c8da
-    time: 1411136887
+    md5: 897a1470d367ba6a08c9a1b1e708b5a7
+    time: 1411161255
   /resources/wayfinding-signage/index.html:
-    md5: 8a2fc4c57d369841a16b45801e002115
-    time: 1411136887
+    md5: 0692a464af5b877334df0ab9453f82bb
+    time: 1411161255
   /resources/poster-design/index.html:
-    md5: ab8986c4024295ada9c9e926b2e2429e
-    time: 1411136887
+    md5: 0084d70c1e607fb2d2b1562546b59be0
+    time: 1411161255
   /people/micah/index.html:
-    md5: 5f966542e4c882acfd38dca405071a9f
-    time: 1411136942
+    md5: a563c6f54b4688ad7d43c8cfae12d92c
+    time: 1411161255
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: c67a0e7c9aea65f279c813e26d7122b5
-    time: 1411136942
+    md5: a703d70f62300752a169e1c80a6089b1
+    time: 1411161255
   /feed.xml:
-    md5: d7a7af0aaf9888d78f76b8cce5ddcb69
-    time: 1411136942
+    md5: 3e00fe7eab952d348361c9b05961be32
+    time: 1411161255
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -172,6 +175,9 @@ inventory:
   /assets/Screen Shot 2014-09-19 at 10.28.35 AM.png:
     md5: 21e2285b04c29734df0f92abba9bab85
     time: 1411136942
+  /assets/IMG_3606.jpg:
+    md5: aa5a085cb21dd5eede9532fc86d6c118
+    time: 1411161256
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
@@ -187,6 +193,9 @@ inventory:
   /assets/MK-Gallery-Gleeds-1.jpg:
     md5: be403c44e30cd359771a8bdb3488abb0
     time: 1411091363
+  /assets/IMG_3606-1.jpg:
+    md5: aa5a085cb21dd5eede9532fc86d6c118
+    time: 1411161257
   /assets/MFA2010-3.jpeg:
     md5: 657bba7a37283b8a50f60f246672be61
     time: 1409786701
@@ -202,6 +211,9 @@ inventory:
   /assets/Capture-d_écran-2010-10-13-à-17.23.20 (1).png:
     md5: 4569e41a8215a4f179fa970ce5f2230f
     time: 1411091364
+  /assets/IMG_3612.jpg:
+    md5: 227ec87a70f7c7092a5bb4dc374ee239
+    time: 1411161258
   /assets/MFA2010-4.jpeg:
     md5: 74798334aafd8bbbeaf9be88c86e3c10
     time: 1409786700
@@ -217,6 +229,9 @@ inventory:
   /assets/salt_ist_421.jpg:
     md5: 320f2c738870ab783b25b935143d6e27
     time: 1411091364
+  /assets/IMG_3607.jpg:
+    md5: 674c11e299bda6808d1ac61348d6915e
+    time: 1411161259
   /assets/MFA2010-5.jpeg:
     md5: d5b701d540529bd05c760b361ec5138c
     time: 1409786700
@@ -232,6 +247,9 @@ inventory:
   /assets/bananawall_4-1.jpg:
     md5: 96d2726e663bd2782395375cf85eb42d
     time: 1411091365
+  /assets/IMG_3608.jpg:
+    md5: 83cffd0e0805dd7202a9fdbbe755ec9e
+    time: 1411161260
   /assets/12-P1060618_OK.jpg:
     md5: 4f4032d7cc04da52462e5852cfb4e3d0
     time: 1409835271
@@ -241,6 +259,9 @@ inventory:
   /assets/bananawall_1.jpg:
     md5: bd93464af59ff31b8549cd8c1e0dcd98
     time: 1411091365
+  /assets/IMG_3609.jpg:
+    md5: e6cb0036eea839b8001563850e20eb59
+    time: 1411161261
   /assets/1-EXPO-1-P1000583.jpg:
     md5: 0d0b14cda7aa93530f446b470c9311b3
     time: 1409835272
@@ -250,12 +271,18 @@ inventory:
   /assets/bananawall_2.jpg:
     md5: 97fb313daf817895c460cad8c3e9d64f
     time: 1411091366
+  /assets/IMG_3610.jpg:
+    md5: 38705f651c7bac9a74148cdacb9521eb
+    time: 1411161262
   /assets/02_P1070519.jpg:
     md5: 41c914de6923b54e29e2932c21577ec5
     time: 1409835272
   /assets/salt_ist_366.jpg:
     md5: 973061f53a40cfcfa570cbdcc5d65060
     time: 1411091366
+  /assets/IMG_3611.jpg:
+    md5: 8116bf8bfe4e4fda0f804adfb5f79c51
+    time: 1411161264
   /assets/2-EXPO-2-P1000608.jpg:
     md5: 7bd2bb78b70df7897a5663bb135b8f5d
     time: 1409835273
