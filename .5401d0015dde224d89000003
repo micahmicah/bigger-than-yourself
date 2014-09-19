@@ -1,84 +1,87 @@
 ---
-time: 1411090459
+time: 1411091405
 inventory:
   /bigger-than-yourself/index.html:
-    md5: c5f06a28546c022d2f766ba795ed04ba
-    time: 1411090452
+    md5: e371fc5befdde7dd758ff504e2ad79f9
+    time: 1411091360
   /index.html:
-    md5: c5f06a28546c022d2f766ba795ed04ba
-    time: 1411090452
+    md5: e371fc5befdde7dd758ff504e2ad79f9
+    time: 1411091360
   /resources/index.html:
-    md5: b1dc9d97ffd88c917bad25c595f12adb
-    time: 1411090452
+    md5: 94f091b4ced933d522aa630d65340977
+    time: 1411091360
+  /resources/examples-week-1/index.html:
+    md5: 4e09e964c591d9882a94f62cf8509e1e
+    time: 1411091360
   /resources/oce/index.html:
-    md5: 6628baa0b5cef5688c5c4b53c19e497f
-    time: 1411090452
+    md5: c43e022e1ee96367939da318f05fb759
+    time: 1411091360
   /resources/crit-forms/index.html:
-    md5: 3d21284e892bc24c018bf1ce43567417
-    time: 1411090452
+    md5: bcf63afbc9b799cae61543ad4d1c2598
+    time: 1411091360
   /resources/vinyl-cutting/index.html:
-    md5: 5e28fc6f90e6954387e98dbe44911703
-    time: 1411090452
+    md5: fff551bd0c88a0ddbc92e3325dbce9fc
+    time: 1411091360
   /resources/laser-cutting/index.html:
-    md5: b3458fd19893f1f78af73b3b445c4b7a
-    time: 1411090452
+    md5: 714d6d4698727daafd658c62ad7967b7
+    time: 1411091360
   /resources/bruce-mau-design/index.html:
-    md5: 78c9ae18a1b9174a961fd67b78e5fa13
-    time: 1411090453
+    md5: 06d26d949ddcc6aedddf4d9e7b5ebee5
+    time: 1411091360
   /resources/wade-guyton/index.html:
-    md5: a99086b60020cc1a8cb3789d7db7d915
-    time: 1411090453
+    md5: 47b45f24d787d5fe336c394fa33b8132
+    time: 1411091360
   /resources/vincent-perrottet/index.html:
-    md5: 2a340967bc2a89b809b3c63cf21ee31b
-    time: 1411090453
+    md5: d99937553ade496ea03938089a6e75e5
+    time: 1411091361
   /resources/e-roon-kang/index.html:
-    md5: 862e1cc23377ed2e8a3e990f670270eb
-    time: 1411090453
+    md5: c12a4f919adb49e4da33d114ef36b700
+    time: 1411091361
   /resources/applying-vinyl/index.html:
-    md5: bce27d78508927f76d43ba873c096f5c
-    time: 1411090453
+    md5: 7980ee6329a47184521e17f54abf6cc1
+    time: 1411091361
   /resources/cnc-routing/index.html:
-    md5: 2bfb9987f9d19342fbc26055f5bc463b
-    time: 1411090453
+    md5: bfb349f7540cb8d374946db745ed5e3d
+    time: 1411091361
   /resources/archive/index.html:
-    md5: 76a10c79c1798355d54ce2845fa2dd42
-    time: 1411090453
+    md5: 08a7f49df02d9355aec5d307ade63810
+    time: 1411091361
   /resources/tags/index.html:
-    md5: e0cdf8c3dacfb9a0b4a9d492d13de0ba
-    time: 1411090453
+    md5: 287b1b30b386335e7757e4ee95be346a
+    time: 1411091361
   /syllabus/index.html:
-    md5: b356476dd251e36e294f064f75b9ecd8
-    time: 1411090453
+    md5: 1227813eccf26f1e7a270a779f67626a
+    time: 1411091361
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: b88795742f00db83606d773ba02bc4e6
-    time: 1411090453
+    md5: fe2800d46455be0895d05ffa47dbca82
+    time: 1411091361
   /syllabus/exercise-1/index.html:
-    md5: b978a063b1238a09f96669dd60a25046
-    time: 1411090453
+    md5: 4696ebc01741201f16dc639fe5eac40c
+    time: 1411091361
   /resources/art-installations/index.html:
-    md5: 3b05717a2c803d6a957149e0f687aa30
-    time: 1411090105
+    md5: a30a301e4a31e1740d72ae3e070a6004
+    time: 1411091361
   /resources/wayfinding-signage/index.html:
-    md5: eddd149ede6201553006b1c75bc4626e
-    time: 1411090106
+    md5: 962dae90bac1b7c4f6f7f2863e6c5f73
+    time: 1411091361
   /resources/poster-design/index.html:
-    md5: 201e08c7c9443ab227454196df6f4dbc
-    time: 1411090106
+    md5: 533e9e9365de27141a47667b692047ee
+    time: 1411091361
   /people/micah/index.html:
-    md5: cdb105691ade1e2fac33e2bd55732be3
-    time: 1411090453
+    md5: 8c0f72b51c66c6166152e0d028bc2741
+    time: 1411091361
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: ed09af5fe33daac6b376cc11e37eb971
-    time: 1411090453
+    md5: 622059a080469df13a95c2b93919631a
+    time: 1411091361
   /feed.xml:
-    md5: 2adc7babdee8d8afb4cbd9b942da1769
-    time: 1411090453
+    md5: dd97670433af7a033b551056cb653522
+    time: 1411091361
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
@@ -160,6 +163,9 @@ inventory:
   /assets/CO2-Laser-Cutting---Laser-E (1).gif:
     md5: f75bf3dc8f4b246272c468016f91ec73
     time: 1411090454
+  /assets/zoom.jpg:
+    md5: 4a6803794a328d9039256b1925e08371
+    time: 1411091362
   /assets/MFA2010-1.jpeg:
     md5: bec87b35a3f466fe48e750c7e425e77e
     time: 1409787022
@@ -172,6 +178,9 @@ inventory:
   /assets/hesdjyrk0zch91o9sntq6oyj6nizwiwustmhfdbochbmhk5izo.jpg:
     md5: 36fbca9fd281a996b946bff179659bb3
     time: 1409835698
+  /assets/MK-Gallery-Gleeds-1.jpg:
+    md5: be403c44e30cd359771a8bdb3488abb0
+    time: 1411091363
   /assets/MFA2010-3.jpeg:
     md5: 657bba7a37283b8a50f60f246672be61
     time: 1409786701
@@ -184,6 +193,9 @@ inventory:
   /assets/4ivfpvw3t8n1vhwt4ljdv8xkn45rwz5cqalwi6037fwprxd0p0.jpg:
     md5: 619599dbb0561d00c88d7cc8b21ebf67
     time: 1409835699
+  /assets/Capture-d_écran-2010-10-13-à-17.23.20 (1).png:
+    md5: 4569e41a8215a4f179fa970ce5f2230f
+    time: 1411091364
   /assets/MFA2010-4.jpeg:
     md5: 74798334aafd8bbbeaf9be88c86e3c10
     time: 1409786700
@@ -196,6 +208,9 @@ inventory:
   /assets/ivar91s7k6pwbmi5dkiuuxp20e7hivq23d386wz84jbxyl477i.jpg:
     md5: b766dd62073e603ff90c40e089221f3e
     time: 1409835699
+  /assets/salt_ist_421.jpg:
+    md5: 320f2c738870ab783b25b935143d6e27
+    time: 1411091364
   /assets/MFA2010-5.jpeg:
     md5: d5b701d540529bd05c760b361ec5138c
     time: 1409786700
@@ -208,24 +223,93 @@ inventory:
   /assets/a98of7v2vkiro5ajb2b6i0jin7p8nqucr390k9lb2rkj0l5f7n.jpg:
     md5: 308e0821aae65cfa21dcba45d5e8f6eb
     time: 1409835700
+  /assets/bananawall_4-1.jpg:
+    md5: 96d2726e663bd2782395375cf85eb42d
+    time: 1411091365
   /assets/12-P1060618_OK.jpg:
     md5: 4f4032d7cc04da52462e5852cfb4e3d0
     time: 1409835271
   /assets/ah4kk0b50t4mzo82389hyib2voxu210y3ojf8xemak4c6ygqpq.jpg:
     md5: 3f1390b5c94090eb2ae41da9f1f49771
     time: 1409835700
+  /assets/bananawall_1.jpg:
+    md5: bd93464af59ff31b8549cd8c1e0dcd98
+    time: 1411091365
   /assets/1-EXPO-1-P1000583.jpg:
     md5: 0d0b14cda7aa93530f446b470c9311b3
     time: 1409835272
   /assets/isfa1f7p7g6qqwr3nxkkn4jjd1ildpb1lwq8wctyl2k1rlfuxq.jpg:
     md5: f2f169c36183053d9365dc276c55f73a
     time: 1409835700
+  /assets/bananawall_2.jpg:
+    md5: 97fb313daf817895c460cad8c3e9d64f
+    time: 1411091366
   /assets/02_P1070519.jpg:
     md5: 41c914de6923b54e29e2932c21577ec5
     time: 1409835272
+  /assets/salt_ist_366.jpg:
+    md5: 973061f53a40cfcfa570cbdcc5d65060
+    time: 1411091366
   /assets/2-EXPO-2-P1000608.jpg:
     md5: 7bd2bb78b70df7897a5663bb135b8f5d
     time: 1409835273
+  /assets/005-NJPAC.jpg:
+    md5: 6fbb239bf10fa5dca10ee2a2e6d56113
+    time: 1411091366
   /assets/03_EXPO_A V_BU.jpg:
     md5: bdf2826286351273eda81d40439b5bba
     time: 1409835273
+  /assets/004-NJPAC.jpg:
+    md5: 4cf12b472cf2fc3842a6d772ab4d03fa
+    time: 1411091367
+  /assets/jvdp_home1.jpg:
+    md5: d35846e2393904cf634702b19c3ba712
+    time: 1411091367
+  /assets/StadiumPlaza1.jpg:
+    md5: 16c65cfa6da0d4ffc87c8de4fff94d59
+    time: 1411091368
+  /assets/zoom-1.jpg:
+    md5: 2fd093b748ae3a537511ea747bfc4dab
+    time: 1411091368
+  /assets/1Xenon_Venice_pg_61.jpg:
+    md5: c8564cb501a63039b6e9c0d5f5c93d77
+    time: 1411091369
+  /assets/3Xenon_Venice_pg_63.jpg:
+    md5: e98d3f6e87004e878b50a4406a88f8a2
+    time: 1411091370
+  /assets/5Xenon_Venice_pg_66.jpg:
+    md5: f4d8dc74edbd4be7f034d6dc27210ad7
+    time: 1411091370
+  /assets/Jan_van_der_Ploeg_photography_by_Niels_Vis_copyright_2013-7-553x367.jpg:
+    md5: 5ad85b3c3b4c0fb0d394969659dd541e
+    time: 1411091370
+  /assets/van_der_Ploeg_9.jpg:
+    md5: dc5f73c4da6c25027df6d9f3121ffea5
+    time: 1411091371
+  /assets/van_der_Ploeg_3_01.jpg:
+    md5: b8b1039e86ca021d4a584a3dc6c2f0eb
+    time: 1411091372
+  /assets/janvanderploeg_web.jpg:
+    md5: fcb983db9e34231c9fd549ac08b0f2c7
+    time: 1411091372
+  /assets/m1280x1024.jpg:
+    md5: 363c023f83555093106720928bd207f9
+    time: 1411091372
+  /assets/no-277.jpg:
+    md5: 158f589ea42f9d5b9891b6710b327490
+    time: 1411091373
+  /assets/2Xenon_Venice_pg_62.jpg:
+    md5: 401e0a9fc14be9909f0e112bc1d16558
+    time: 1411091374
+  /assets/4Xenon_Venice_pg_64-65.jpg:
+    md5: 0542f4062a9ef24a31a35769c38cbda9
+    time: 1411091374
+  /assets/6Xenon_Venice_pg_67.jpg:
+    md5: 85406253a01542d5ca7042fbdca182d1
+    time: 1411091375
+  /assets/10Xenon_Venice_pg_74-75.jpg:
+    md5: af98a9b4c9a51b72d991c5df84029038
+    time: 1411091375
+  /assets/bananawall_3.jpg:
+    md5: f9279cebacdc87d0f40852b990cc7227
+    time: 1411091376
