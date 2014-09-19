@@ -1,87 +1,90 @@
 ---
-time: 1411091405
+time: 1411136891
 inventory:
   /bigger-than-yourself/index.html:
-    md5: e371fc5befdde7dd758ff504e2ad79f9
-    time: 1411091360
+    md5: 3c6bbdd8e548523aa2c5bb55836a53ca
+    time: 1411136885
   /index.html:
-    md5: e371fc5befdde7dd758ff504e2ad79f9
-    time: 1411091360
+    md5: 3c6bbdd8e548523aa2c5bb55836a53ca
+    time: 1411136885
   /resources/index.html:
-    md5: 94f091b4ced933d522aa630d65340977
-    time: 1411091360
+    md5: e30f3d14695bacd77a6ec91b48f74fc3
+    time: 1411136885
+  /resources/sol-lewitt-documentary-at-bu/index.html:
+    md5: 802d27408f79b05cf93c4c3c20919f7e
+    time: 1411136885
   /resources/examples-week-1/index.html:
-    md5: 4e09e964c591d9882a94f62cf8509e1e
-    time: 1411091360
+    md5: 925cecd4ad45de7b5dec27afed3d9c73
+    time: 1411136885
   /resources/oce/index.html:
-    md5: c43e022e1ee96367939da318f05fb759
-    time: 1411091360
+    md5: 8cca167689933fd1a33d07ef9cca8705
+    time: 1411136885
   /resources/crit-forms/index.html:
-    md5: bcf63afbc9b799cae61543ad4d1c2598
-    time: 1411091360
+    md5: c424f11182379622676c1d53696ff72b
+    time: 1411136885
   /resources/vinyl-cutting/index.html:
-    md5: fff551bd0c88a0ddbc92e3325dbce9fc
-    time: 1411091360
+    md5: b324e7d38c276816effc431d3a3711ab
+    time: 1411136885
   /resources/laser-cutting/index.html:
-    md5: 714d6d4698727daafd658c62ad7967b7
-    time: 1411091360
+    md5: a3b5dcaa67ac43f8026c37f8b9c74263
+    time: 1411136885
   /resources/bruce-mau-design/index.html:
-    md5: 06d26d949ddcc6aedddf4d9e7b5ebee5
-    time: 1411091360
+    md5: 6decc72d23839f7f0f1d03adcb403093
+    time: 1411136886
   /resources/wade-guyton/index.html:
-    md5: 47b45f24d787d5fe336c394fa33b8132
-    time: 1411091360
+    md5: 8c494f6d8b4432acffbce504026e42a0
+    time: 1411136886
   /resources/vincent-perrottet/index.html:
-    md5: d99937553ade496ea03938089a6e75e5
-    time: 1411091361
+    md5: 85347ff5cbfa4a6b7c6fd8eb7c20472a
+    time: 1411136886
   /resources/e-roon-kang/index.html:
-    md5: c12a4f919adb49e4da33d114ef36b700
-    time: 1411091361
+    md5: 34348463ab6b57e1bb818b44d99a2744
+    time: 1411136886
   /resources/applying-vinyl/index.html:
-    md5: 7980ee6329a47184521e17f54abf6cc1
-    time: 1411091361
+    md5: 62d8bbd854974000fd6409296f75e224
+    time: 1411136886
   /resources/cnc-routing/index.html:
-    md5: bfb349f7540cb8d374946db745ed5e3d
-    time: 1411091361
+    md5: 2f1e62a3678b924ea47dc9414d29c7af
+    time: 1411136886
   /resources/archive/index.html:
-    md5: 08a7f49df02d9355aec5d307ade63810
-    time: 1411091361
+    md5: 20757b8a7bd7d3c52073b745cda9d062
+    time: 1411136886
   /resources/tags/index.html:
-    md5: 287b1b30b386335e7757e4ee95be346a
-    time: 1411091361
+    md5: f2554786035bb3c0deeb701fc1a6f9c6
+    time: 1411136886
   /syllabus/index.html:
-    md5: 1227813eccf26f1e7a270a779f67626a
-    time: 1411091361
+    md5: e19e3c3ee6d0e6221fc28ac26191f076
+    time: 1411136886
   /people/index.html:
     md5: 2c16c4bfb55edd5966fd1fd88592c6b5
     time: 1410550927
   /work-in-progress/index.html:
-    md5: fe2800d46455be0895d05ffa47dbca82
-    time: 1411091361
+    md5: f934731ac5dafb114d6700b56e10601c
+    time: 1411136886
   /syllabus/exercise-1/index.html:
-    md5: 4696ebc01741201f16dc639fe5eac40c
-    time: 1411091361
+    md5: bf454da756142d845aedba25fdfb8aec
+    time: 1411136887
   /resources/art-installations/index.html:
-    md5: a30a301e4a31e1740d72ae3e070a6004
-    time: 1411091361
+    md5: 05e999244abc1a1af2d5172db848c8da
+    time: 1411136887
   /resources/wayfinding-signage/index.html:
-    md5: 962dae90bac1b7c4f6f7f2863e6c5f73
-    time: 1411091361
+    md5: 8a2fc4c57d369841a16b45801e002115
+    time: 1411136887
   /resources/poster-design/index.html:
-    md5: 533e9e9365de27141a47667b692047ee
-    time: 1411091361
+    md5: ab8986c4024295ada9c9e926b2e2429e
+    time: 1411136887
   /people/micah/index.html:
-    md5: 8c0f72b51c66c6166152e0d028bc2741
-    time: 1411091361
+    md5: 354c7d55e5cc90afaeb8150c3bed18d0
+    time: 1411136887
   /CNAME:
     md5: acc70d9ffa689c63378a24575bea9e87
     time: 1409447732
   /sitemap.xml:
-    md5: 622059a080469df13a95c2b93919631a
-    time: 1411091361
+    md5: 5572caec6dddb20c3a8fbdb1824d4bce
+    time: 1411136887
   /feed.xml:
-    md5: dd97670433af7a033b551056cb653522
-    time: 1411091361
+    md5: 96720f0c6580752478be2d1951648469
+    time: 1411136887
   /assets/style/css/grid.css:
     md5: 7f23803812a1921037235e365c8dc466
     time: 1409477816
